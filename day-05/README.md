@@ -46,23 +46,23 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>12:30 - 1:30</td>
-        <td>Lunch</td>
-        <td>
-        
-        </td>
-    </tr>
-    <tr>
-        <td>1:00 - 1:30</td>
         <td> Finish setting up Fwitter with sessions</td>
         <td>
 
         </td>
     </tr>
     <tr>
-        <td>1:30 - 2:50</td>
-        <td>Fwitter challenges OR Ruby labs</td>
+        <td>1:30 - 2:00</td>
+        <td>Improv</td>
         <td>
-
+            <a href="https://github.com/learn-co-curriculum/tf-improv-games"> Improv Games</a>
+        </td>
+    </tr>
+    <tr>
+        <td>2:00 - 2:50</td>
+        <td>Fwitter + Labs </td>
+        <td>
+        
         </td>
     </tr>
     <tr>
