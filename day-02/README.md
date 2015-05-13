@@ -11,49 +11,60 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td>Welcome and Intros</td>
+        <td>9:00 - 9:15</td>
+        <td>To Dos</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1pqecjFE-MNEFuYga5XbwZSRjaHt6HmKKUTWp9R6X76c/edit?usp=sharing">Day 1 Deck</a>
+            <a href="https://docs.google.com/presentation/d/1Idsv-gyHL3ZUVzbLde_Y9h-QyOM8Ve3x0Iy4G_M9P_U/edit?usp=sharing"> Deck</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/cartoon-collections">Cartoon Collection</a>
         </td>
     </tr>
     <tr>
-        <td>10:00 - 10:20</td>
-        <td>Learn Setup and Demo</td>
+        <td>9:15 - 11:30</td>
+        <td>HTML Forms in Fwitter</td>
         <td>
-            ??
-        </td>
-    </tr>
-    <tr>
-        <td>10:20 - 11:30</td>
-        <td>Ruby Review</td>
-        <td>
-            <a href="https://github.com/learn-co-curriculum/hs-ruby-assessment">Ruby Review Assesment</a>
-            <a href="https://github.com/learn-co-curriculum/hs-ruby-oo-assessment">Ruby OO Assesment</a>
-            <a href="#">Teacher Guide ?</a>
+            <a href="lectures/fwitter_forms/README.md">Teacher Guide with Fwitter</a>
+            <br>
+            <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store">Lab: Student Practice with Swag Shop</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-week-2-challenges">Lab: Fwitter Challenges</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/rack-todo">Lab: Explore Rack</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-count-sentences">Lab: Ruby Countring Sentences</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/maze-solver">Stretch Lab: Maze Solver</a>
+
         </td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
         <td>Lunch</td>
         <td>
-            <p>Order Pizza</p>
+           Eat Food
         </td>
     </tr>
     <tr>
-        <td>12:30 - 2:20</td>
-        <td>MVC Review</td>
+        <td>12:30 - 1:30</td>
+        <td>Labs</td>
         <td>
-            Teacher Guide
-            <br>
-            Stretch Labs
+            Work on Labs from Above
         </td>
     </tr>
     <tr>
-        <td>2:20 - 2:50</td>
+        <td>1:30 - 2:00</td>
         <td>Improv</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/tf-improv-games"> Improv Games</a>
+            <a href="https://github.com/learn-co-curriculum/tf-improv-games"> Improve Games</a>
+        </td>
+    </tr>
+    <tr>
+        <td>2:00 - 2:50</td>
+        <td>Labs</td>
+        <td>
+            Work on labs above
         </td>
     </tr>
     <tr>
