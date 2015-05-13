@@ -14,6 +14,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
+            <a href="https://docs.google.com/presentation/d/1ObqRhAXQtlBKtAaCUzOEKwRYSqEKCf-Uzuikm5rhMMU/edit?usp=sharing">Deck</a>
+            <br>
             <a href="https://github.com/learn-co-curriculum/hs-hashketball">Hashketball</a>
         </td>
     </tr>
