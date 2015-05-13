@@ -14,13 +14,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
-
+            <a href="https://github.com/learn-co-curriculum/hs-hashketball">Hashketball</a>
         </td>
     </tr>
     <tr>
         <td>9:15 - 10:00</td>
         <td>Review all of the pieces that we’ve learned so far - forms/databases/active record/sessions</td>
         <td>
+            <a href="/lectures/README.md">Review Lecture</a>
             
         </td>
     </tr>
@@ -40,7 +41,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>1:00 - 1:30</td>
-        <td>Finish Flatiron Swag Shop</td>
+        <td>Group Project/ Finish Swag Shop?</td>
         <td>
         
         </td>
@@ -49,7 +50,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>1:30 - 2:00</td>
         <td>Improv</td>
         <td>
-
+            <a href="https://github.com/learn-co-curriculum/tf-improv-games"> Improv Games</a>
         </td>
     </tr>
     <tr>
@@ -71,3 +72,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 ## Resources
 
 ## Lectures
+
+<a href="/lectures/README.md">Review Lecture</a>
