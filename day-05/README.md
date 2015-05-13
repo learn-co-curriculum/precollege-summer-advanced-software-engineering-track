@@ -14,6 +14,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
+            <a href="https://docs.google.com/a/flatironschool.com/presentation/d/12uP912YSNhwTfVoJtSz8R9yls5mb62yNDaZKF7tDIBs/edit?usp=sharing"> Deck</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-oo-email-parser"> OO Email Parser</a>
+
 
         </td>
     </tr>
@@ -21,25 +25,27 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:30</td>
         <td>Intro to sessions and cookies</td>
         <td>
+            <a href="lectures/sessions_authorization/README.md"> Teacher Guide</a>
+            <a href="lectures/sessions_authorization/FULL-LECTURE.md"> Full Script</a>
             
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:00</td>
-        <td>Improv</td>
+        <td>10:30 - 11:30</td>
+        <td>Start setting up Fwitter with sessions</td>
         <td>
         
         </td>
     </tr>
     <tr>
-        <td>11:00 - 12:00</td>
-        <td>Start setting up Fwitter with sessions</td>
+        <td>11:30 - 12:30</td>
+        <td>Lunch</td>
         <td>
-
+            Eat Food
         </td>
     </tr>
     <tr>
-        <td>12:00 - 1:00</td>
+        <td>12:30 - 1:30</td>
         <td>Lunch</td>
         <td>
         
