@@ -64,14 +64,21 @@ Include the code above the Sign Up form
 ### tweets.erb - Code snippet 4
 ```erb
   <% if session[:user_id] %>
-    <h2>Add a tweet</h2>
+   <h2>Add a tweet</h2>
     <form action="/tweet" method="POST">
-    <p><strong>User:</strong> <%= @user.name %> <input type="hidden" name="user_id" value="<%= @user.id %>"></p>
-    <p><strong>Status:</strong> <input type="text" name="status"></p>
+      <p>User:
+        <select name="user_id">
+          <% @users.each do |user| %>
+            <option value="<%= user.id %>"><%= user.name %></option>
+          <% end %>
+        </select>
+      </p>
+    <p>Status: <input type="text" name="status"></p>
     <input class="btn btn-primary" type="submit">
-    </form>
+  </form>
   <% end %>
 ```
+
 
 ### application_controller.rb - code snippet 5
 ```ruby
@@ -82,16 +89,17 @@ Include the code above the Sign Up form
   end
 ```
 
-### tweets.erb - Code snippet 6
+### tweets.rb - code snippet 6
 
-```erb
-  <% if session[:user_id] %>
-    <h2>Add a tweet</h2>
-    <form action="/tweet" method="POST">
-      <p><strong>User:</strong> <%= @user.name %> <input type="hidden" name="user_id" value="<%= @user.id %>"></p>
-      <p><strong>Status:</strong> <input type="text" name="status"></p>
-      <input class="btn btn-primary" type="submit">
+```html
+<% if session[:user_id] %>
+  <h2>Add a tweet</h2>
+  <form action="/tweet" method="POST">
+  <p><strong>User:</strong> <%= @user.name %> <input type="hidden" name="user_id" value="<%= @user.id %>"></p>
+  <p><strong>Status:</strong> <input type="text" name="status"></p>
+  <input class="btn btn-primary" type="submit">
   </form>
 <% end %>
 ```
+
 

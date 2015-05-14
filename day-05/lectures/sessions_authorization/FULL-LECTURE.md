@@ -57,6 +57,7 @@ Browsers are like goldfish - they have no memory. Every time you go from one pag
     * We’ve already got email addresses so we’ve got that covered. Excellent. M is done.
   * V - Views. This is the part of the application that our users will interact with. What do you usually see when you are asked to log into a site? 
     * We need a Sign In form. We already have a Sign Up form set up to create new users and I’m a lazy programmer so I’m going to reuse this for our Sign In form with one small modification. 
+    * See Code Snippet 2
     * What part of our form determines where the form information is sent when it is submitted (which route/URL the form connects to)? Where do we want info from our Sign In form to be sent?
     * The action attribute of the form tag in our Sign In form should point to a  ‘/sign-in’ route in the application controller. 
   * C - Controller part of our application. I’m going to create a blank ‘sign-in route for now and have everyone set up their sign in form in their views and a sign in route in their controller.
