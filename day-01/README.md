@@ -50,7 +50,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="lectures/MVC_Review/README.MD"> Teacher Abridged Guide</a>
             <br>
-            Stretch Labs
+            <a href="https://github.com/learn-co-curriculum/fibo_finder">Stretch Lab: Fibonacci Finder</a>
+            <br>
         </td>
     </tr>
     <tr>
