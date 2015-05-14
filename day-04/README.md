@@ -59,7 +59,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>2:00 - 2:50</td>
-        <td>  Fwitter challenges OR Ruby labs - also Direct Messages Lab (for advanced kids)</td>
+        <td>  Keep Working on Labs from Earlier</td>
         <td>
 
         </td>

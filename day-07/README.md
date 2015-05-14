@@ -14,9 +14,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/hs-detention-oo-lab">Detention OO Lab</a>
+            <a href="https://github.com/learn-co-curriculum/hs-detention-oo-lab">ToDo: Detention OO Lab</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/collections_practice">Collections Practice</a>
+            <a href="https://github.com/learn-co-curriculum/collections_practice">ToDo: Collections Practice</a>
 
         </td>
     </tr>
@@ -24,7 +24,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 12:00</td>
         <td>Ideation</td>
         <td>
-            
+            <a href="lectures/ideation">Lecture: Ideation</a>
         </td>
     </tr>
     <tr>
@@ -38,14 +38,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>1:00 - 2:50</td>
         <td>Project reviews</td>
         <td>
-
+            <a href="https://github.com/learn-co-curriculum/hs-giphy-moods-lab">Lab: Giphy Moods</a>
         </td>
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
         <td>Wrap Up</td>
         <td>
-        
+            <a href="https://github.com/learn-co-curriculum/ruby-refactoring">Code Challenge: Ruby Refactoring</a>
         </td>
     </tr>
 </table>

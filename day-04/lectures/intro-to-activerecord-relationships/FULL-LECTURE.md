@@ -1,14 +1,31 @@
-###SWABTS
-  Build out a database in a Sinatra project with multiple tables that each connect to a different model.
-  + MVC - Build model, view and controller for an additional model (Users)
-  + DATABASES/ACTIVE RECORD -  Set up has_many/belongs_to relationships
-  + ACTIVE RECORD - Understand how has_many/belongs_to works via a `user_id` column (or similar equivalent for other models)
-  + ACTIVE RECORD - Build up and down migrations to both create and modify tables
-  + FORMS - Build a sign up form for new users
-  + MVC - Create a sign up POST controller that works with the sign up form to create new users
-  + FORMS - Build forms for something like tweets that connect a tweet object to the user it belongs to
-  + MVC - Create a `layout.erb` template and understand how the Ruby keyword `yield` is used within `layout.erb` to render partials
-  + Advanced Students - start thinking about how to create another model to track user's followers or start using ActiveRecord validations?
+# Intro to ActiveRecord Relationships - Full Lecture
+
+## Objective
+
+Build out a database in a Sinatra project with multiple tables that each connect to a different model.
+
+## SWBATS
+
+### MVC
+
++ Build model, view and controller for an additional model (Users)
+
+### ActiveRecord
+
++ Set up has_many/belongs_to relationships
++ Understand how has_many/belongs_to works via a `user_id` column (or similar equivalent for other models)
++ Build up and down migrations to both create and modify tables
+
+### Forms
+
++ Build forms for something like tweets that connect a tweet object to the user it belongs to
++ Build a sign up form for new users
+
+### MVC
+
++ Create a sign up POST controller that works with the sign up form to create new users
++ Create a `layout.erb` template and understand how the Ruby keyword `yield` is used within `layout.erb` to render partials
++ Advanced Students - start thinking about how to create another model to track user's followers or start using ActiveRecord validations?
 
 ### Motivation / Why Should You Care?
 Last week we did a ton of work with ActiveRecord to get our databases hooked up to our apps. Our twitter database is pretty simple though - we just have one tweets table with users and their statuses. But what if we were keeping track of tweets and followers and trending hashtags and direct messages? We would need a much more complex database with separate tables and models for tweets, users, hashtags and direct messages. Getting all of these tables hooked up to each other and making all of these models play nice is super important and that is where we see the magic of ActiveRecord.
