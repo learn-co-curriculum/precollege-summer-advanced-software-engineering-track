@@ -35,6 +35,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Setting up Users and Tweets in Fwitter</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-4">Completed Week 4 Fwitter</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-snapchat"> Snapchat Lab</a>
         </td>
     </tr>
     <tr>
