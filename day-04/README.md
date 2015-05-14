@@ -14,8 +14,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
+            <a href="https://docs.google.com/presentation/d/1Sos3uHD0xYstwN5VfNfhT_jGmdcR7GqhJqEP9Mw5ARs/edit?usp=sharing"> Deck</a>
+            <br>
             <a href="https://github.com/learn-co-curriculum/hs-understanding-errors">ToDo: Understanding Errors</a>
+            <br>
             <a href="https://github.com/learn-co-curriculum/triangle-classification">ToDo: Triangle Classification</a>
+            <br>
             <a href="https://github.com/learn-co-curriculum/debug-me">Stretch ToDo: Debugging</a>
         </td>
     </tr>

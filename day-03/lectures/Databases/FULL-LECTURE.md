@@ -73,6 +73,7 @@ The way that we use the internet would be vastly different if we couldn’t save
 
 + **ACTIVE RECORD**
   ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
+  
   * SQL can be hard to write, especially when you're trying to pulll information from multiple tables.
   * ActiveRecord is gem that sets up a SQL databse and lets us write ruby code to read and write to the database
   * Gemfile: add 'activerecord' and 'sinatra-activerecord' and 'sqlite3' and 'rake' gems to your gemfile
