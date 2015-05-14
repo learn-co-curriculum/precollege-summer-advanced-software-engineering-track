@@ -1,19 +1,8 @@
 ##Objective
 ***Incorporate forms into a Sinatra application in order to create and post new tweets.***
 
-##SWABTS
-
-+ FORMS - Explain how data is passed between webpages via URL params
-+ FORMS - Build HTML form with form tags, input tags and submit button
-+ FORMS - Understand the importance of form tags and the submit button
-+ FORMS - Understand how type and name in the input tag work
-+ FORMS - Set up a form with a POST method and action (connecting to route)
-+ FORMS - Understand why we use the POST method in forms (as opposed to GETS)
-+ CONTROLLERS - Set up a controller with the appropriate actions to process info from a form
-
-
 ### Motivation / Why Should You Care?
-How does Twitter post your tweets? How does facebook upload your photos? How does tumblr air your most secret guilty pleasures? All of these web applications take in information from a user, mutate that information, and then display it back. We’re going to teach you guys how to do this with forms.
+How does Twitter post your tweets? How does facebook upload your photos? How does tumblr air your most secret guilty pleasures? All of these web applications take in information from a user, mutate that information, and then display it back. The concept of input-output drives every app in existence. We’re going to teach you guys how to do this with forms.
 
 
 ### Lesson Plan
@@ -21,43 +10,44 @@ How does Twitter post your tweets? How does facebook upload your photos? How doe
 
 ***Code Snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-2-code-snippets)***
 
-+ **HTML Form:**
-  * In `app/views/tweet.erb`, create a new erb file in the public directory called `tweet.erb` in the views directory.
-    * See Code Snippet 1
-    * Action attribute of the form tag: tells the form where to send the information the user fills out to be processed
-    * To look at this form in the browser, we need to set up a new route for the form to be viewed on a new page
-      * New get request with `'/tweet'` as the route and have it load `tweet.erb` as the view
-      * See Code Snippet 2
-    * Now we need to deal with how the information gets sent to the serve. We want this to be processed by the `/tweet` route - but a POST request - a user is posting information to our application to process (`action="/tweet"`)
-    * Method attribute of the form tag tells us what sort of HTTP request the form is making. We're giving our server data, so it's a POST request. (`method="post"`)
-  * In `application_controller.rb`: we need to set up a route for our app to receive information from a user.
-    * See code snippet 3
 
-+ **Form Input**
-  * To create the boxes for a user to type using HTML `input` tags. Every separate piece of information will need its own input tags. We'll be taking in username and tweet text.
-  * Type attribute: lots of options (text, drop down menu, radio button, check box). We're going to use text (`type="text"`)
-  * Name attribute: this is a label for what type of information the user uses (`name="username"` or `name="status"`)
-  * Submit button: create with input tags with `type="submit"`
-  *See Code Snippet 4
+**HTML Forms**
 
-+ ***Submitting The Form**
-  * When we click submit, app tells us that Sinatra doesn't know the ditty, we need to tell our POST reoute how to process the information
-  * Params Hash: When the user submits the form, the information gets passed to the controller as a hash called `params`.
-    * If I filled out the form with FlatironSchool as my username and "I <3 coding" as my status, the hash would look like this:
-    ```ruby
-    params = { :username => "Flatiron School",
-                :status => "I <3 Coding"
-            }
-    ````
-    * The keys of the hash come from the value of the `name` attribute in the input tag. Each value in the hash is whatever input the user entered
-    * [This](: https://drive.google.com/a/flatironschool.com/file/d/0B4vrcPO5UdhRSUhNMnpuY2hRYU0/view) is helpful
-    * See Code Snippet 5: You can look at the params hash by either putting a `binding.pry` in POST route or using `puts params`
++ In `app/views/tweet.erb`:
 
-+ **Processing Info From The Form**
-  * We need to use the info from the form to create a new instance of the Tweet class.
-  * The POST `'/tweet'` method is the only area of our code that has access to params, so that's where we make our new instances
-  * We redirect back to `'/'` here so that all the tweets can get displayed in the main page.x
-  * See Code Snippet 6
+```html
+  <form action="/tweet" method="POST">
+    <p>Username: <input type="text" name="username"></p>
+    <p>Status: <input type="text" name="status"></p>
+    <input class="btn btn-primary" type="submit">
+  </form>
+```
+
+  * `form` tag - Opening and closing form tag marks the block of code that will make out the form.
+    * `action` attribute - tells us what route processes the information the user enters in the form
+    * `method` attribute - tells us what type of HTTP request is processing this information. It's always a post.
+  * `input` tag marks where we expect a user to enter information
+    * `type` attribte - what type of input (text, radio button, check boxes, etc)
+    * `name` attribute - this becomes the label for the information that gets passed to the route in the controller. The value that this attribute stores (in this case status) becomes the key in the params hash
+    * `type="button"` - this becomes the submit button to submit the form
+
++ In `application_controller.rb`: we need to set up a route for our app to receive information from a user.
+
+```ruby
+  post '/tweet' do
+    Tweet.new(params[:username], params[:status])
+    redirect '/'
+  end
+```
+ * We set up a post route to to `/tweets` to process the information from the form.
+ * The information from the form is sent to the controller as a hash:
+ ```ruby
+  params = {:username = "Victoria",
+            :status => "I love Flatiron!"
+          }
+  ```
+  * We use the information from that hash to create a new instance of our tweet class
+  * We then redirect back to the home page `/`
 
 ### Conclusion / So What?
 Forms are literally the tool that powers user interaction. It is the only way that the web applications we use could operate.
