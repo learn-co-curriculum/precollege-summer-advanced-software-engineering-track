@@ -1,4 +1,4 @@
-# Intro to ActiveRecord Relationships - Full Lecture
+# Intro to ActiveRecord Relationships - Lecture Notes
 
 ## Objective
 
