@@ -6,7 +6,7 @@ Build out a database in a Sinatra project with multiple tables that each connect
 
 ## SWBATS
 
-***Students will be able to use Active Record associations to create a belongs_to and has_many relationship
+***Students will be able to use Active Record associations to create a belongs_to and has_many relationship***
 
 ## Motivation / Why Should You Care?
 
