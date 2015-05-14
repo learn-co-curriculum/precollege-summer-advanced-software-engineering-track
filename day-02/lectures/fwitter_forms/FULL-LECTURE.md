@@ -40,7 +40,7 @@ How does Twitter post your tweets? How does facebook upload your photos? How doe
   * Submit button: create with input tags with `type="submit"`
   *See Code Snippet 4
 
-+ ***Submitting The Form**
++ **Submitting The Form**
   * When we click submit, app tells us that Sinatra doesn't know the ditty, we need to tell our POST reoute how to process the information
   * Params Hash: When the user submits the form, the information gets passed to the controller as a hash called `params`.
     * If I filled out the form with FlatironSchool as my username and "I <3 coding" as my status, the hash would look like this:
