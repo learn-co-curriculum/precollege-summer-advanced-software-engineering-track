@@ -33,7 +33,7 @@ So far, we've created an awesome twitter app, but we've only made a few users an
 
 + How do we actually execute this code?
 + First, we need to create our photos table. Can someone help me create a migration? 
-	* `rake db:create_migration NAME=photos`
+	* `rake db:create_migration NAME=create_photos`
 + Next, in our create_photos file, we'll define our `up` and `down` methods. 
 	* see [code snippet](./code-snippets.md)
 + Now, we need to run the code in our migration file. How can we do that?
