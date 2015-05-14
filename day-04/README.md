@@ -46,6 +46,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://github.com/learn-co-curriculum/OO-my-pets">Lab: OO My Pets</a>
             <a href="https://github.com/learn-co-curriculum/jukebox-cli">Lab: OO CLI Jukebox</a>
+            <a href="https://github.com/learn-co-curriculum/playlister-sinatra">Lab: Playlister Sinatra</a>
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-ar-relationships-lab">Stretch Lab: Direct Messages</a>
         </td>
     </tr>

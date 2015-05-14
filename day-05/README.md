@@ -16,25 +16,21 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://docs.google.com/a/flatironschool.com/presentation/d/12uP912YSNhwTfVoJtSz8R9yls5mb62yNDaZKF7tDIBs/edit?usp=sharing"> Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-oo-email-parser"> OO Email Parser</a>
-
-
+            <a href="https://github.com/learn-co-curriculum/hs-oo-email-parser"> ToDo: OO Email Parser</a>
         </td>
     </tr>
     <tr>
         <td>9:15 - 10:30</td>
-        <td>Intro to sessions and cookies</td>
+        <td>Intro to Sessions and Cookies</td>
         <td>
-            <a href="lectures/sessions_authorization/README.md"> Teacher Guide</a>
-            <a href="lectures/sessions_authorization/FULL-LECTURE.md"> Full Script</a>
-            
+            <a href="lectures/sessions_authorization/README.md">Lecture: Sessions and Authorization</a>
         </td>
     </tr>
     <tr>
         <td>10:30 - 11:30</td>
         <td>Start setting up Fwitter with sessions</td>
         <td>
-        
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-project">Current Status of Fwitter</a>
         </td>
     </tr>
     <tr>
@@ -62,7 +58,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:00 - 2:50</td>
         <td>Fwitter + Labs </td>
         <td>
-        
+            <a href="https://github.com/learn-co-curriculum/sinatra-adventure">Lab: Sinatra Adventure</a>
+            <a href="https://github.com/learn-co-curriculum/ruby-allergies">Stretch Lab: Ruby Allergies</a>
         </td>
     </tr>
     <tr>
