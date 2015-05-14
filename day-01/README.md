@@ -50,8 +50,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="lectures/MVC_Review/README.MD"> Teacher Abridged Guide</a>
             <br>
+            <a href="https://github.com/learn-co-curriculum/oo-jukebox">OO Lab: Jukebox</a>
             <a href="https://github.com/learn-co-curriculum/fibo_finder">Stretch Lab: Fibonacci Finder</a>
             <br>
+            <a href="https://github.com/learn-co-curriculum/hs-mine-sweeper">Stretch Lab: Mine Sweeper</a>
         </td>
     </tr>
     <tr>
