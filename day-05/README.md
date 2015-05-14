@@ -23,14 +23,26 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:30</td>
         <td>Intro to Sessions and Cookies</td>
         <td>
+<<<<<<< HEAD
             <a href="lectures/sessions_authorization/README.md">Lecture: Sessions and Authorization</a>
+=======
+            <a href="lectures/sessions_authorization/README.md"> Teacher Guide</a>
+            <a href="lectures/sessions_authorization/FULL-LECTURE.md"> Full Script</a>
+            <br>
+            <a href="lectures/sessions_authorization/code_snippets.md">Code Snippets</a>
+            
+>>>>>>> day 5 and lab on day 2
         </td>
     </tr>
     <tr>
         <td>10:30 - 11:30</td>
-        <td>Start setting up Fwitter with sessions</td>
+        <td>Fwitter + Swag Shop + Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-project">Current Status of Fwitter</a>
+            Students should work on Fwitter with Sessions and Authorization then Swag Shop and Fwitter Challenges then labs.
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-week-5-challenges"> Lab: Fwitter Challenges</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/anagram-detector"> Lab: Anagram Detecor </a>
         </td>
     </tr>
     <tr>
