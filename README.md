@@ -12,7 +12,7 @@ Here you'll find:
 
 ### [Day 1 - Ruby Review + MVC ](day-01/README.md)
 
-### [Day 2 - HTML FORMS](day-02/README.md)
+### [Day 2 - HTML Forms](day-02/README.md)
 
 ### [Day 3 - SQL + ActiveRecord ](day-03/README.md)
 
