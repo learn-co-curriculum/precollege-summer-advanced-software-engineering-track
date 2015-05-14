@@ -25,28 +25,35 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:00</td>
-        <td>Improv</td>
+        <td>10:30 - 11:30</td>
+        <td>Setting up Users and Tweets in Fwitter</td>
         <td>
         
         </td>
     </tr>
     <tr>
-        <td>11:00 - 12:00</td>
-        <td>Setting up Users and Tweets in Fwitter</td>
+        <td>11:30 - 12:30</td>
+        <td>Lunch</td>
+        <td>
+            Eat Food
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:30</td>
+        <td>Fwitter challenges OR Ruby labs - also Direct Messages Lab (for advanced kids).</td>
+        <td>
+        
+        </td>
+    </tr>
+    <tr>
+        <td>1:30 - 2:00</td>
+        <td>  Improv</td>
         <td>
 
         </td>
     </tr>
     <tr>
-        <td>12:00 - 1:00</td>
-        <td>Lunch</td>
-        <td>
-        
-        </td>
-    </tr>
-    <tr>
-        <td>1:00 - 2:50</td>
+        <td>2:00 - 2:50</td>
         <td>  Fwitter challenges OR Ruby labs - also Direct Messages Lab (for advanced kids)</td>
         <td>
 
