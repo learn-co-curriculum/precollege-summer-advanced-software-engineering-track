@@ -20,14 +20,20 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:15 - 11:30</td>
+        <td>9:15 - 10:15</td>
         <td>HTML Forms in Fwitter</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-2"> Completed Day 2 Fwitter</a>
+            <br>
             <a href="lectures/fwitter_forms/README.md">Teacher Guide with Fwitter</a>
             <br>
             <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store">Lab: Student Practice with Swag Shop</a>
+
+    <tr>
+        <td>10:15 - 11:30</td>
+        <td>Labs</td>
+        <td>
+          <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store">Lab: Student Practice with Swag Shop</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/rps-game-app"> Lab: Rock Paper Scissors Sinatra</a>
             <br>
@@ -38,7 +44,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://github.com/learn-co-curriculum/hs-count-sentences">Lab: Ruby Countring Sentences</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/maze-solver">Stretch Lab: Maze Solver</a>
-
         </td>
     </tr>
     <tr>
