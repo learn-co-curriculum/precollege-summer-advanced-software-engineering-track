@@ -12,19 +12,17 @@ Here you'll find:
 
 ### [Day 1 - Ruby Review + MVC ](day-01/README.md)
 
-### [Day 2 - HTML FORMS](day-02/README.md)
+### [Day 2 - HTML Forms](day-02/README.md)
 
-### [Day 3 - ]()
+### [Day 3 - SQL + ActiveRecord ](day-03/README.md)
 
-### [Day 4 - ]()
+### [Day 4 - ActiveRecord Relationships ](day-04/README.md)
 
-### [Day 5 - ]()
+### [Day 5 - Sessions and Authorization ](day-05/README.md)
 
-### [Day 6 - ]()
+### [Day 6 - Group Project](day-06/README.md)
 
-### [Day 7 - ]()
-
-### [Day 8 - ]()
+### [Day 7 - Project Ideation ](day-07/README.md)
 
 Bonus Modules:
 
