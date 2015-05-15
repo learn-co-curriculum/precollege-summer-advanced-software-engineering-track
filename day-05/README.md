@@ -23,6 +23,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:30</td>
         <td>Intro to Sessions and Cookies</td>
         <td>
+             <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-5">Completed Day 5 Fwitter</a>
+             <br>
             <a href="lectures/sessions_authorization/README.md"> Teacher Guide</a>
             <a href="lectures/sessions_authorization/FULL-LECTURE.md"> Full Script</a>
             <br>
@@ -35,7 +37,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             Students should work on Fwitter with Sessions and Authorization then Swag Shop and Fwitter Challenges then labs.
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-5">Completed Day 5 Fwitter</a>
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-week-5-challenges"> Lab: Fwitter Challenges</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/anagram-detector"> Lab: Anagram Detecor </a>
