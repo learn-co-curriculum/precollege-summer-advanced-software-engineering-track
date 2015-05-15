@@ -29,9 +29,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
-        <td>Do the Flatiron Swag shop group project</td>
+        <td>Group Project - Flinstagram!</td>
         <td>
-        
+            <a href="https://github.com/learn-co-curriculum/hs-adv-se-flinstagram/">Group Project: Flinstagram</a>
         </td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>12:00 - 2:00</td>
-        <td>Group Project/ Finish Swag Shop?</td>
+        <td>Finish Group Project From Earlier</td>
         <td>
         
         </td>
