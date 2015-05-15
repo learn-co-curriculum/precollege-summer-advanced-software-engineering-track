@@ -34,7 +34,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>10:30 - 11:30</td>
-        <td>Setting up Users and Tweets in Fwitter</td>
+        <td>Setting up Users and Tweets in Fwitter + Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-snapchat"> Snapchat Lab</a>
         </td>
