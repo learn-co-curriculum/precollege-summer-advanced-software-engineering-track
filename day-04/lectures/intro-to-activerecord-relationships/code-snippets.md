@@ -26,19 +26,72 @@ end
 ```
 ## Code Snippet 2
 
+### Layout.erb
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <title>Week 4</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to Fwitter!</h1>
+
+      <%= yield %>
+
+      <div class="footer">
+        <h4><a href="/tweet">Tweet</a> | <a href="/users">Users</a></h4>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </body>
+</html>
+```
+
+## Code Snippet 3
+
+###Create User Form (User Sign Up)
+In `users.erb`:
+```html
+<h3>Sign Up</h3>
+<form action="/sign-up" method="POST">
+  <p>Name: <input type="text" name="name"></p>
+  <p>Email: <input type="text" name="email"></p>
+  <input class="btn btn-primary" type="submit">
+</form>
+
+In `application_controller.rb`:
+```ruby
+  post '/sign-up' do
+    @user = User.new(:name => params[:name], :email => params[:email])
+    @user.save
+    redirect '/'
+  end
+```
+
+## Code Snippet 4
+
 ### Updating the User and Tweets models
+
+In `tweet.rb` file: 
+
 ```ruby
 class Tweet < ActiveRecord::Base
   belongs_to :user
 
 end
 
+In `user.rb` file:
 class User < ActiveRecord::Base
   has_many  :tweets
 
 end
 ```
-## Code Snippet 3
+##Code Snippet 5
 
 ### Creating a modify tweets migration
 ```ruby
@@ -52,7 +105,7 @@ end
     remove_column :tweets, :user_id, :integer
   end
 ```
-## Code Snippet 4
+## Code Snippet 6
 
 ### Modifying the tweet form
 
