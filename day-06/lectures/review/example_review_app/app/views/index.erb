@@ -1,0 +1,18 @@
+<h1> Would you like to...</h1>
+<h2> View a list?<h2>
+  <form method="POST" action="/view_list">
+    <select name="list_id">
+    <% List.all.each do |list| %>
+      <option value="<%= list.id %>"><%= list.name %></option>
+    <% end %>
+    </select>
+    <input type="submit">
+  </form>
+
+<h2> Create a list?</hw>
+<form method="POST" action="/list">
+  <input type="text" name="list_name">
+  <input type="submit" name="submit">
+</form>
+
+<h2><a href="/list">Add Item To A List?</a></h2>

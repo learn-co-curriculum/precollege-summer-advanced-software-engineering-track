@@ -1,0 +1,12 @@
+<h1> What list would you like to add an Item to?</h1>
+<form method="POST" action="/add_item">
+   <select name="list_name">
+    <% List.all.each do |list| %>
+      <option value="<%= list.id %>"><%= list.name %></option>
+    <% end %>
+    </select>
+
+  <h2>What item would you like to add to your list?</h2>
+  <input type="text" name="item_name">
+  <input type="submit" name="submit">
+</form>
