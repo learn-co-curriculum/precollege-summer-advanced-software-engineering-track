@@ -1,3 +1,5 @@
+# MVC Review - Lecture Notes
+
 ## SWBATs
 *Build a basic Sinatra application using the principles of MVC architecture*
 

@@ -17,27 +17,54 @@ In Intro to Software Engineering, you built full MVC web applications and became
 
 ### Data Types
 
-+ Here are some different types of data we use in Ruby
++ Let's start by reviewing some of the different data types in Ruby. Who remembers some of the different types of data we can store? *Teacher - have students give their own example of each data type* 
 	* Strings - `"Flatiron School is great!"`
 	* Integers - `42`
 	* Floats - `42.57`
 	* Boolean - `true`
++ Nice. Let's do a quick quiz. I'll put some data on the board, and you tell me the type. 
+	* `34` - integer
+	* `"No garden of one dragon"` - string
+	* `"34"` - string
+	* `true` - boolean
+	* `"false"` - string
+	* `false` - boolean
 
 ### Methods
 
-+ List out some of the different built in Ruby methods we can use. 
++ Remember that different data types have different methods that we can use on them. What are some methods we can use on strings? 
+	* `.reverse`
+	* `.upcase`
+	* `.downcase`
++ How about on integers?
+	* `.to_s`
+	* `.even?`
+	* `.odd?`
++ What's a method that we can use to print something to our screen?
+	* `puts`
++ And get content from a user?
+	* `gets`
 + What about if we want to define our own method? How can we do that?
+
 ```ruby
 def say_hi
 	puts "Hi!!"
 end
 ```
-+ Walk through building out a program that takes in a user's name and says hello to them. 
+
++ So, let's write a program that greets asks a user what their name is and gives them a personalized greeting. So the first thing we need to do is ask their name. How do I do that?
+	* `puts "What's your name?"`
++ Great. Now I want to take in their name and store it as a variable. Who can help me do that?
+	* `name = gets.chomp`
+	* remember the `.chomp` to chomp off the enter key
++ Now, let's say their name back to them. How can we do this?
+	* One way: `puts "Hello, " + name`
+	* Another way: `puts "Hello, #{name}"`
 
 #### Conditionals
 
-+ Review using conditionals to affect what happens when our program runs
-+ EXAMPLE: 
++ Our program is pretty good, but what if Beyonce tries to use it? Instead of saying "Hello, Beyonce" I want it to say, "Beyonce! I LOVE YOUR MUSIC!"
++ We can write this out with a conditional statement - can someone help me?
 ```ruby
 if name.downcase == "Beyonce" 
 	puts "Beyonce! I LOVE YOUR MUSIC!"
@@ -48,13 +75,21 @@ end
 
 #### Arrays and Hashes
 
-+ We use arrays and hashes to store and organize our data
++ Now that we've gone over some of the different types of data we use in Ruby, let's review some ways to organize it. 
++ Who remembers some basic ways we can store data in an organized way?
+	* Arrays
+	* Hashes
++ Can someone help me build out an array?
 	* `my_array = ["Sandwich", 2, "Hello", 23.23]`
 + How do we access elements out of the array? 
 	* `my_array[index]` - remember that we start counting from zero
 	* `my_array[0]` gives the first element, in this case "Sandwich"
 + What are some methods that we can call on arrays?
-
+	* `.push` - adds an item to the array
+		* you can also use the shovel `<<`
+	* `.pop` - removes an item from an array
+	* `.include?` returns `true` or `false` if an array includes a certain item
+	* `.each` - iterates through an array and lets us manipulate each item
 + What about hashes, how are they different than arrays?
 	* Arrays are like ordered lists, hashes are stored by key-value pairs
 	* `my_hash = {key => value}`
@@ -62,13 +97,14 @@ end
 + We can access these values by the key
 	* `my_hash["Luke"]` would return `"May"`
 + What are some hash methods? 
-
+	* `.values`
+	* `.keys`
+	* `.length`
+	* `.include?`
 
 ##### Iterating through Arrays and Hashes
 
-+ We mentioned the `.each` method earlier. This lets us go through an array or hash and perform an action on each item in it. 
-	* `.each`
-
++ We mentioned the `.each` method earlier. This lets us go through an array or hash and perform an action on each item in it.
 	```ruby
 	my_array.each do |item| #item is a placeholder for each item in the array - you can name it whatever you want!
 		#do something to or with the item here!
@@ -103,7 +139,7 @@ steph = {
 }
 ```
 
-+ It would be really tricky to keep track of things like friends and interests in common. Instead, we create a User template and then create instances of the user. 
++ It would be really tricky to keep track of things like friends and interests in common. Instead, we create a User template and then create instances of the user. This is called a class. Does anyone remember how to do that?
 
 ```ruby
   class User
