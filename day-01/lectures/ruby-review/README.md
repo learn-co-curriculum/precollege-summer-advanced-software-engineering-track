@@ -1,19 +1,21 @@
-## Ruby Review - Full Lecture
+# Ruby Review - Full Lecture
 
-### SWBATS
+## SWBATS
+
 + Recall basic Ruby syntax
 + Assign a variable to different data types
 + Call built-in Ruby methods and define their own methods
 + Understand and use arrays and hashes to organize data
++ Use methods to iterate through and manipulate data structures
 + Create classes and use attr_accessors to access data
 
-### Motivation
+## Motivation
 
-In Intro to Software Engineering, you guys built full MVC web applications and became masters of Ruby. Even masters need practice, though, so let's go over some of the Ruby Basics before diving into the rest of the course!
+In Intro to Software Engineering, you built full MVC web applications and became masters of Ruby. Even masters need practice, though, so let's go over some of the Ruby Basics before diving into the rest of the course!
 
-### Lesson Plan
+## Lesson Plan
 
-#### Data Types
+### Data Types
 
 + Let's start by reviewing some of the different data types in Ruby. Who remembers some of the different types of data we can store? *Teacher - have students give their own example of each data type* 
 	* Strings - `"Flatiron School is great!"`
@@ -28,7 +30,7 @@ In Intro to Software Engineering, you guys built full MVC web applications and b
 	* `"false"` - string
 	* `false` - boolean
 
-#### Methods
+### Methods
 
 + Remember that different data types have different methods that we can use on them. What are some methods we can use on strings? 
 	* `.reverse`
@@ -73,6 +75,7 @@ end
 
 #### Arrays and Hashes
 
++ Now that we've gone over some of the different types of data we use in Ruby, let's review some ways to organize it. 
 + Who remembers some basic ways we can store data in an organized way?
 	* Arrays
 	* Hashes
@@ -162,11 +165,5 @@ steph = {
 
 ### Hints and Hurdles
 + Feel free to go through this quickly if the students are picking it up, especially the data type/variable assignment sections. 
-
-
-
-
-
-
 
 
