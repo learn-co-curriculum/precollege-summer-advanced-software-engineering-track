@@ -12,7 +12,7 @@ You guys have learned A TON in the past 5 classes - MVC, forms, databases, user 
 + **Step 3** Onto the V.
   * Create an `index.erb` file. This file needs a form to create a list. 
 + **Step 4**
-  * Set up your `post '/list'` route to create a new list based on the params from the form in `index.erb`. This route should create a new list and save it to the database. (`List.create`...)
+  * Set up your `post '/list'` route to create a new list based on the params from the form in `index.erb`. This route should first check to see if a list by that name already exists, and if not, create a new list and save it to the database. (`List.create`...)
 + **Step 5**
   * We want to be able to view all of our lists. The `index.erb` page should also have a form with a drop down of all the already created lists using the html `select` tag. Once you select a list, it should direct you to a page that displays all the items. This form should pass the `list_id` as the params
 + **Step 6**
@@ -27,7 +27,6 @@ You guys have learned A TON in the past 5 classes - MVC, forms, databases, user 
   * Now we need a new action in our controller, `post '/add_item'`. This action should take the params from our form in `list.erb` and call `Item.create` using the information from the form from the form params.
 + **Step 10**
   * We need users to be able to access the add item list, so we need to link it from our `view_list.erb` file.
-
 
 ### Conclusion / So What?
 You know so much! And being able to build this project on your own from the ground up is proof.
