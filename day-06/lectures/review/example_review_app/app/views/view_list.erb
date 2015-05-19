@@ -1,0 +1,9 @@
+<h1>Your List: <%= @list.name %></h1>
+
+<% if @list.items != nil%>
+  <% @list.items.each do |item| %>
+    <p><%= item.name %></p>
+  <% end %>
+<% end %>
+
+<h4><a href="/list"> Add An Item to A List</a> | <a href="/">All Lists</a></h4>
