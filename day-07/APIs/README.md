@@ -5,8 +5,7 @@
 ![Web APIs](https://s3.amazonaws.com/after-school-assets/API.png)
 Think about how many cool apps there are out there: Instagram, Yelp, Yumly, Foursquare, Spotify (etc). There are a million; too many to list. All of these apps have a way for you to sign up and interact with the application. With Instagram, you can upload photos, search hashtags, and look at all the photos tagged in a specific location. 
 
-
-In the same way that you can interact with an application, a program can as well. API stands for "Application Programming Interface". In a nutshell, an API is a set of instructions that allows developers to change and control existing web applications. It's a way for the developers of existing applications to allow other people to get their data in a controlled way. For example, the facebook API has a specific function that allows developers to integrate posting to a facebook wall. The Twitter API has a function that allows developers to display all of a user's tweets.
+In the same way that you can interact with an application, a program can as well. API stands for "Application Programming Interface". In a nutshell, an API is a set of instructions that allows developers to change and control existing web applications. It's a way for the developers of existing applications to allow other people to get their data in a controlled way. For example, the Facebook API has a specific function that allows developers to integrate posting to a Facebook wall. The Twitter API has a function that allows developers to display all of a user's tweets.
 
 ###Lesson Plan
 + We're going to use the Giphy API for this project. Let's create a file called `giphy.rb` in our development directory. 
@@ -19,7 +18,7 @@ In the same way that you can interact with an application, a program can as well
   puts giph
   ```
   * When we run `ruby giphy.rb` in terminal, we should see the new instance of the Giphy class printed in terminal
-  * So far we have not accesed the Giphy API, that's coming next
+  * So far we have not accessed the Giphy API, that's coming next
 + Let's start searching for funny images
   * The `search` method takes an a string as an argument. Let's say I wanted to search for "funny", "orange", and "cat". I would use the method like this:
   ```ruby
@@ -68,7 +67,7 @@ http://api.giphy.com/v1/gifs/search
 response["data"][0]["images"]["original"]["url"] #=> "http://media0.giphy.com/media/FiGiRei2ICzzG/giphy.gif"
 ```
 
-We have a huge module on APIs and walkthroughs of good APIs for you all to practice intergrating APIs into your projects!
+We have a huge module on APIs and walkthroughs of good APIs for you all to practice integrating APIs into your projects!
 
 ###Resources
 [Here's a great Quora page on APIs for laypeople.](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
