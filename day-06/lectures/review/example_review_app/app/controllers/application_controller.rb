@@ -13,7 +13,10 @@ class ApplicationController < Sinatra::Base
   end
 
   post '/list' do
-    @list = List.create(:name => params[:list_name])
+    @list = List.find_by(:name => params[:list_name])
+    if !@list
+      @list = List.create(:name => params[:list_name])
+    end
     erb :list
   end
 
