@@ -5,7 +5,8 @@
 + Assign a variable to different data types
 + Call built-in Ruby methods and define their own methods
 + Understand and use arrays and hashes to organize data
-+ 
++ Create classes and use attr_accessors to access data
+
 ### Motivation
 
 In Intro to Software Engineering, you guys built full MVC web applications and became masters of Ruby. Even masters need practice, though, so let's go over some of the Ruby Basics before diving into the rest of the course!
