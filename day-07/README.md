@@ -36,10 +36,17 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>1:00 - 2:50</td>
+        <td>1:00 - 2:00</td>
         <td>API Lesson</td>
         <td>
-
+        <a href="lectures/APIs">Lecture: APIs</a>
+        </td>
+    </tr>
+    <tr>
+        <td>2:00 - 2:50</td>
+        <td>Start Working on Projects</td>
+        <td>
+        
         </td>
     </tr>
     <tr>

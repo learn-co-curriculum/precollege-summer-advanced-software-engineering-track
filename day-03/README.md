@@ -51,7 +51,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-sql-queries-challenge"> Lab: SQL Challenge</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-fwitter-week-3-challenges"> Lab: Fwitter Challenges</a>
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-module-3-challenges"> Lab: Fwitter Challenges</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/rake-todo"> Lab: Rake ToDO</a>
             <br>
@@ -79,7 +79,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:50 - 3:00</td>
         <td>Wrap Up</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1UjrHc_Ki_dvtPqWsWxncBCmWmXYqwv6zg1Zvdlnzfnc/edit?usp=sharing"> Deck </a>
+            <a href="https://github.com/learn-co-curriculum/find-hashtags">Code Challenge: Find Hashtags</a>
             <br>
             Tell the kids they're awesome. 
         </td>

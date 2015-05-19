@@ -37,11 +37,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="https://github.com/learn-co-curriculum/rps-game-app"> Lab: Rock Paper Scissors Sinatra</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-fwitter-week-2-challenges">Lab: Fwitter Challenges</a>
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-module-2-challenges">Lab: Fwitter Challenges</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/rack-todo">Lab: Explore Rack</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/hs-count-sentences">Lab: Ruby Countring Sentences</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/maze-solver">Stretch Lab: Maze Solver</a>
         </td>
@@ -80,7 +78,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             Tell kids they are awesome.</br>
 
-            <a href="#">Micro Feedback</a>
+            <a href="#">Micro Feedback</a></br>
+            <a href="https://github.com/learn-co-curriculum/pig-latin">Code Challenge: Pig Latin</a></br>
         </td>
     </tr>
 </table>

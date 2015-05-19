@@ -36,7 +36,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:30</td>
         <td>Setting up Users and Tweets in Fwitter + Labs</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-snapchat"> Snapchat Lab</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-snapchat"> Snapchat Lab</a></br>
+            <a href="https://github.com/learn-co-curriculum/OO-my-pets">Lab: OO My Pets</a>
+            <a href="https://github.com/learn-co-curriculum/jukebox-cli">Lab: OO CLI Jukebox</a>
+            <a href="https://github.com/learn-co-curriculum/playlister-sinatra">Lab: Playlister Sinatra</a>
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-ar-relationships-lab">Stretch Lab: Direct Messages</a>
         </td>
     </tr>
     <tr>
@@ -50,15 +54,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>12:30 - 1:30</td>
         <td>Fwitter challenges OR Ruby labs - also Direct Messages Lab (for advanced kids).</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/OO-my-pets">Lab: OO My Pets</a>
-            <a href="https://github.com/learn-co-curriculum/jukebox-cli">Lab: OO CLI Jukebox</a>
-            <a href="https://github.com/learn-co-curriculum/playlister-sinatra">Lab: Playlister Sinatra</a>
-            <a href="https://github.com/learn-co-curriculum/hs-fwitter-ar-relationships-lab">Stretch Lab: Direct Messages</a>
+            
         </td>
     </tr>
     <tr>
         <td>1:30 - 2:00</td>
-        <td>  Improv</td>
+        <td>Improv</td>
         <td>
 
         </td>
