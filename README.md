@@ -24,5 +24,11 @@ Here you'll find:
 
 ### [Day 7 - Project Ideation ](/day-07)
 
+### [Day 8 - Project Ideation ](/day-08)
+
+### [Day 9 - Project Ideation ](/day-09)
+
+### [Day 10 - Project Ideation ](/day-10)
+
 Bonus Modules:
 

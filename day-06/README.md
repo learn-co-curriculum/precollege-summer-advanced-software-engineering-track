@@ -74,5 +74,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 ## Resources
 
 ## Lectures
-
-<a href="/lectures/README.md">Review Lecture</a>
++ [Review Lecture](lectures/review)
++ [Seeding a Database](lectures/seeds)
