@@ -84,6 +84,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-## Resources
+## SWBATs
 
-## Lectures
++ SESSIONS - Understand why we use sessions
++ SESSIONS - Understand how websites use cookies to keep track of users from page to page
++ SINATRA - Enable sessions in Sinatra
++ FORMS - Set up sign in view with sign in and sign up forms
++ MVC - Set up sign in controller that creates a new session
++ MVC - Modify sign up controller to create a new session
++ SINATRA - Create and understand how to use Sinatra helper methods like signed_in? and current_user
++ VIEW - Use if/else with erb tags to control what is displayed to the user in a view
++ Advanced kids - Have them create custom error messages? Run with helper methods and if/else statements to customize views as much as possible?

@@ -1,25 +1,29 @@
-###SWABTS
+## Objective
 ***Incorporate user authentication and sessions in a Sinatra to maintain a logged in state and keep track of data as a user moves through your app***
+## SWABTS
 
-  + SESSIONS - Understand why we use sessions
-  + SESSIONS - Understand how websites use cookies to keep track of users from page to page
-  + SINATRA - Enable sessions in Sinatra
-  + FORMS - Set up sign in view with sign in and sign up forms
-  + MVC - Set up sign in controller that creates a new session
-  + MVC - Modify sign up controller to create a new session
-  + SINATRA - Create and understand how to use Sinatra helper methods like signed_in? and current_user
-  + VIEW - Use if/else with erb tags to control what is displayed to the user in a view
-  + Advanced kids - Have them create custom error messages? Run with helper methods and if/else statements to customize views as much as possible?
++ SESSIONS - Understand why we use sessions
++ SESSIONS - Understand how websites use cookies to keep track of users from page to page
++ SINATRA - Enable sessions in Sinatra
++ FORMS - Set up sign in view with sign in and sign up forms
++ MVC - Set up sign in controller that creates a new session
++ MVC - Modify sign up controller to create a new session
++ SINATRA - Create and understand how to use Sinatra helper methods like signed_in? and current_user
++ VIEW - Use if/else with erb tags to control what is displayed to the user in a view
++ Advanced kids - Have them create custom error messages? Run with helper methods and if/else statements to customize views as much as possible?
 
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 Browsers are like goldfish - they have no memory. Every time you go from one page to the next - or click refresh - your browser completely erases any memory of what happened on the last page. So how does a web application like Twitter keep track of who you are as you move from page to page? Browsers maintain the illusion of continuity through something called cookies. 
 
 
-### Lesson Plan
+## Lesson Plan
 ***Continuing to use the Fwitter Project***
+
 *** Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-5-code-snippets)***
+
 *** Look at the completed sample Fwitter [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-5)***
+
 + **COOKIES**
   * Little pieces of data that a web application or website stores on your computer - like a trail of crumbs leading back to you.
   * They usually contain a unique string of letters and numbers that helps the site/app keep track of who you are - by keeping track of your session - your time logged into or visiting the site. 
@@ -95,10 +99,10 @@ Browsers are like goldfish - they have no memory. Every time you go from one pag
       * When the user signed in that we set the session[:user_id] to the current user’s ID. Use `find_by` method we learned about earlier in class to find the current user from the `session[:user_id`] - `User.find_by(:id => session[:user_id])`
     * Everyone set this up in their `/tweets` route and git commit and push. Try signing up a few more users and signing in and signing out.
 
-### Conclusion / So What?
+## Conclusion / So What?
 Applications are powered by specific user input, whether your posting a comment to a news article, uploading an image to Instagram, or liking your friends posts on Facebook.Sessions and authorization are used to keep track of a single user's activity on an application, and prohibit a user from posting content as someone else.
 
-### Hints and Hurdles
+## Hints and Hurdles
 + This is a long class, definitely give them a break
 + Test things constantly - use pry, do in browser testing
 + When live coding, don't worry about making mistakes. Use the students to help you debug. It's actually nice for the students to see the teacher make a mistake. It makes them feel better about mistakes they make
