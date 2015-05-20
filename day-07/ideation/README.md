@@ -45,9 +45,6 @@ Break POV into pieces: HMW entertain kids? HMW slow a mom down? HMW mollify dela
 
 Facilitating the HOW MIGHT WE exercise
 
-##WHY facilitate a brainstorm 
-Good facilitation is key to a generative brainstorm. You brainstorm to come up with many, wide-ranging ideas; a good facilitator sets the stage for the team to be successful doing this. 
-
 ###How to facilitate brainstorm
 1. ENERGY – As the facilitator it is your task to keep the ideas flowing. Perhaps the most important aspect of a successful brainstorm is the seed question that you are brainstorming about  D
 CONSTRAINTS – Add constraints that may spark new ideas. “What if it had to be round?,” “How would superman do it?,” “How would your spouse design it?,” “How would you design it with the technology of 100 years ago?” Additionally you can create process constraints. Try putting a time limit on each howmight-we statement; shoot for 50 ideas in 20 minutes. 
