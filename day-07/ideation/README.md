@@ -3,42 +3,21 @@
 
 ###Ideation Day
 
-Show examples of ineresting web utilities
+1. Show examples of ineresting web applications that utilize basic data persistence
+
 Examples:
 Real World Apps:
-https://validator.w3.org/
-Google Translate
-astrologyzone.com
-These apps or utilities are really just
-How these sites work (like Google translate): User input => modified by a process => custom output
-This is exactly what we learned in day 1 with puts and gets - input output powers the web
-Here are some things our kids have built using that methodology
+
+"These apps or persist data in order to present a custom, dynamic experience to the user.  
+2. How these sites work (like Google translate): User input => Fetch custom data => manipulate data => custom output
+3. This is exactly what we have been learning.  Active record gives us tremendous power to store data, and our MVC framework gives us the ability to manipulate it and display it in a cusotm way.  Additionally, you've learned that APIs are really just an interface to access a particular data set.  With APIs, you can substitute stored data for dynamically retrieving it.
+
+4. Here are some things our kids have built using that methodology
 Student Examples:
-Clarence and Fiona: http://breaking-as.herokuapp.com/
-Caroline: monogram-maker.herokuapp.com
-Malachi and Jovan: http://which-fruit-are-you.herokuapp.com
 
+5. Ideate
 
-Solicit examples -- use examples to highlight whats not possible (eg. yes fb is like this except it has a db..)
-Ask students for their ideas of this what websites do this - points us right towards constraints
-Introduce Constraints
-Scope & Constraint:
-You’ll have to build it up!
-can’t persist data - What is means to persist data
-can’t store data a user enter, every time you go to a site, it’s the same experience (like your fb wall is different every time)
-Can’t upload files
-can’t bring in data from other things
-
-Exercise: Imposing Constraints
-
-WHY impose constraints 
-It is a bit counterintuitive, but imposing constraints with intention can actually increase your creative potential. Try it: Think of as many white things as you can in ten seconds. Now think of white things in your kitchen. Did the more constrained prompt spark more ideas? 
-
-
-
-Ideate
-
-How-Might-We: Students learn how asking the right questions can inspire powerful ideation (60 minutes)
+How-Might-We Exercise: Students learn how asking the right questions can inspire powerful ideation (60 minutes)
 
 Why HOW MIGHT WE
 
