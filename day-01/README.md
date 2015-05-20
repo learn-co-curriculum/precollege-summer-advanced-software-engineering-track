@@ -91,6 +91,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + Create classes and use attr_accessors to access data
 
 ### MVC
+
 + MODEL - Understand what a model is
 + MODELS - Build a model with attributes and actions
 + MODELS - Understand what attr_accessors are and how to use them
