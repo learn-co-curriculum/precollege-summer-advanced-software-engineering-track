@@ -22,26 +22,18 @@ So far, we've created an awesome twitter app, but we've only made a few users an
 
 + If you haven't already, fork and clone today's project. You'll be working in groups to build your own version of Instagram, where you can send pictures to each other. 
 + Your app will have models for Photos and Users. 
-+ In our Sinatra apps, where do we store our files related to the database?
-	* In the `db` folder!
++ Sinatra apps store our files related to the database in the `db` folder!
 + Inside our `db` folder, check out the file `seeds.rb`. 
 + Can someone walk me through what's going on in this file? 
-	* We call the method create on our Photo model and pass in an array. 
-	* Inside the array are many hashes. Each hash represents one photo. 
-	* Inside of the hash is a key-value pair representing the photo's data. In this case it's a link.
 + So the seed file, we're just using a Ruby method to create lots of photos. 
 
 ### Running Rake.db seed
 
 + How do we actually execute this code?
-+ First, we need to create our photos table. Can someone help me create a migration? 
-	* `rake db:create_migration NAME=create_photos`
-+ Next, in our create_photos file, we'll define our `up` and `down` methods. 
-	* see [code snippet](./code-snippets.md)
-+ Now, we need to run the code in our migration file. How can we do that?
-	* `rake db:migrate`
-+ Now, we can execute the code in our seeds file the same way. Open up your command line and run `rake db:seed`. 
-	* This is a task that simply executes all of the code in that seed file. 
++ First, we need to create our photos table through a migration.
++ Next, in our create_photos file, we'll define our `up` and `down` methods.
++ Now, we need to run the code in our migration file.
++ Now, we can execute the code in our seeds file the same way.
 + If it works, you won't see anything - no news is good news. 
 + To test it, we can start a console with `tux`. 
 + In `tux`, let's run `Photo.all`. If we see lots of photos, we know that it worked! 
