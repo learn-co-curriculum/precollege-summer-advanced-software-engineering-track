@@ -2,7 +2,7 @@
 
 _A full lecture is available [here](LECTURE.md)_
 
-## SWBATS
+## SWBATs
 
 + Recall basic Ruby syntax
 + Assign a variable to different data types

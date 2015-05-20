@@ -77,8 +77,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-## Lectures
-- [Ruby Review](lectures/ruby-review)
-- [MVC - Sinatra](lectures/MVC_Review/README.MD)
-
