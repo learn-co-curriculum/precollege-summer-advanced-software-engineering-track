@@ -23,9 +23,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:00</td>
         <td>Review all of the pieces that we’ve learned so far - forms/databases/active record/sessions</td>
         <td>
-            <a href="/lectures/review/LECTURE.md">Lecture: Review</a>
+            <a href="lectures/review/LECTURE.md">Lecture: Review</a>
             <br>
-            <a href="/lectures/review">Lecture Notes</a>
+            <a href="lectures/review">Lecture Notes</a>
             <br>
         </td>
     </tr>
@@ -33,9 +33,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:30</td>
         <td>Seed File Lecture</td>
         <td>
-            <a href="lecture/seeds/LECTURE.md">Lecture: Seed File</a>
+            <a href="lectures/seeds/LECTURE.md">Lecture: Seed File</a>
             <br>
-            <a href="lecture/seeds">Lecture Notes</a>
+            <a href="lectures/seeds">Lecture Notes</a>
         </td>
     </tr>
     <tr>
