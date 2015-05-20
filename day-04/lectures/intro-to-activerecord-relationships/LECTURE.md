@@ -4,7 +4,7 @@
 
 Build out a database in a Sinatra project with multiple tables that each connect to a different model.
 
-## SWBATS
+## SWBATs
 
 ### MVC
 
