@@ -1,15 +1,20 @@
 # APIs - Lecture Notes
 
-###Objective
+## Objective
 **Students will be able to integrate an API into their project to provide additional functionality***
 
-###Motivation
+## SWBATs
+
++ Read Ruby gem documentation
++ Incorporate a gem into an existing project
+
+## Motivation
 ![Web APIs](https://s3.amazonaws.com/after-school-assets/API.png)
 Think about how many cool apps there are out there: Instagram, Yelp, Yumly, Foursquare, Spotify (etc). There are a million; too many to list. All of these apps have a way for you to sign up and interact with the application. With Instagram, you can upload photos, search hashtags, and look at all the photos tagged in a specific location. 
 
 In the same way that you can interact with an application, a program can as well. API stands for "Application Programming Interface". In a nutshell, an API is a set of instructions that allows developers to change and control existing web applications. It's a way for the developers of existing applications to allow other people to get their data in a controlled way. For example, the Facebook API has a specific function that allows developers to integrate posting to a Facebook wall. The Twitter API has a function that allows developers to display all of a user's tweets.
 
-###Lesson Plan
+## Lesson Plan
 + We're going to use the Giphy API for this project. Let's create a file called `giphy.rb` in our development directory. 
 + We will be interacting with APIs through a Ruby wrapper; this is just a library of code written by Flatiron developers that lets us easily interact with Giphy. 
 + Because the code we're using to interact with the Giphy API lives in a separate file `giphy_wrapper.rb`, the first thing we have to do in our file `giphy.rb` is require the code: `require_relative 'giphy_wrapper.rb'`
@@ -71,7 +76,7 @@ response["data"][0]["images"]["original"]["url"] #=> "http://media0.giphy.com/me
 
 We have a huge module on APIs and walkthroughs of good APIs for you all to practice integrating APIs into your projects!
 
-###Resources
+## Resources
 [Here's a great Quora page on APIs for laypeople.](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
 
 [And here's an excellent explanation of API's from How Stuff Works](http://money.howstuffworks.com/business-communications/how-to-leverage-an-api-for-conferencing1.htm)
