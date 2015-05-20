@@ -5,34 +5,23 @@ _A full lecture is available [here](LECTURE.md)_
 ###Ideation Day
 
 1. Show examples of ineresting web applications that utilize basic data persistence
-
-Examples:
-Real World Apps:
-
-"These apps or persist data in order to present a custom, dynamic experience to the user.  
 2. How these sites work (like Google translate): User input => Fetch custom data => manipulate data => custom output
 3. This is exactly what we have been learning.  Active record gives us tremendous power to store data, and our MVC framework gives us the ability to manipulate it and display it in a cusotm way.  Additionally, you've learned that APIs are really just an interface to access a particular data set.  With APIs, you can substitute stored data for dynamically retrieving it.
-
 4. Here are some things our kids have built using that methodology
-Student Examples:
-
 5. Constraints
-The problem is something you have a personal connection to or care a lot about
-The customer is someone who is easily accessible (both in-person close to the school and online)
-(White things vs. white things in a kitchen exercise to illustrate power of constraints)
-
+	+ The problem is something you have a personal connection to or care a lot about
+	+ The customer is someone who is easily accessible (both in-person close to the school and online)
 6. Ideate
-
-How-Might-We Exercise: Students learn how asking the right questions can inspire powerful ideation (60 minutes)
 
 Why HOW MIGHT WE
 
 “How might we” (HMW) questions are short questions that launch brainstorms. HMWs are seeds for your ideation that fall out of your point-of-view statement, design principles, or insights.
- Create a seed that is broad enough that there are a wide range of solutions but narrow enough that the team is provoked to think of specific, unique ideas. For example, between the (possibly) too narrow “HMW create a cone to eat ice cream without dripping” and the too broad “HMW redesign dessert” might be the properly scoped “HMW redesign ice cream to be more portable.” 
-It should be noted, the the proper scope of the seed will vary with the project and how much progress you have made in your project work. 
+ Create a seed that is broad enough that there are a wide range of solutions but narrow enough that the team is provoked to think of specific, unique ideas.
+It should be noted, that the proper scope of the seed will vary with the project and how much progress you have made in your project work. 
+
 How to generate HOW MIGHT WE questions
 
-Begin with your Point of View (POV), insights, or problem statement. Create small actionable questions that retain your unique and specific perspective. Write these questions beginning with the phrase, “How might we…” It is often helpful to brainstorm the HMW questions before the solutions brainstorm. For example, consider the following POV and resulting HMW statements. 
+Begin with your Point of View (POV), insights, or problem statement. Create small actionable questions that retain your unique and specific perspective. Write these questions beginning with the phrase, “How might we…” It is often helpful to brainstorm the HMW questions before the solutions brainstorm.
 
 Challenge: Redesign the ground experience at the local international airport POV: Harried mother of three, rushing through the airport only to wait hours at the gate, needs to entertain her playful children because “annoying little brats” only irritate already frustrated fellow passengers. 
 
