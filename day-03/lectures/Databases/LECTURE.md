@@ -1,20 +1,22 @@
-###SWABTS
+##Objective
 ***Add a database to a Sinatra application in order to persist data***
 
-  + DATABASES - Explain why databases are important 
-  + DATABASES - Describe the structure of a database
-  + SQL - Create and modify tables and access info from tables via SQL queries
-  + SINATRA - Connect a Sinatra app to a DB
-  + RAKE - Complete tasks using Rake (list tasks via Rake -T)
-  + ACTIVE RECORD/RAKE - Understand why we use migrations
-  + FORMS -  Build up and down migrations with proper syntax
-  + MODEL - Understand that ActiveRecord works with models to execute SQL commands.
-  + ACTIVE RECORD - Use Active Record to access data from a database
+## SWABTS
 
-### Motivation / Why Should You Care?
++ DATABASES - Explain why databases are important 
++ DATABASES - Describe the structure of a database
++ SQL - Create and modify tables and access info from tables via SQL queries
++ SINATRA - Connect a Sinatra app to a DB
++ RAKE - Complete tasks using Rake (list tasks via Rake -T)
++ ACTIVE RECORD/RAKE - Understand why we use migrations
++ FORMS -  Build up and down migrations with proper syntax
++ MODEL - Understand that ActiveRecord works with models to execute SQL commands.
++ ACTIVE RECORD - Use Active Record to access data from a database
+
+## Motivation / Why Should You Care?
 The way that we use the internet would be vastly different if we couldn’t save our data. You wouldn’t be able to have sites like facebook, tumblr, yelp or pretty much anything. Databases make all of these applications possible. They are the backbone of the web. We’re going to learn how to persist (save) data so that it is accessible from different places at different times.
 
-### Lesson Plan
+## Lesson Plan
 **BEFORE CLASS: DOWNLOAD MYSQL** You can find the guide for downloading and using MYSQL [here](https://github.com/learn-co-curriculum/hs-ruby2-teachers-guide-mysql-setup)
 
 ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
@@ -128,10 +130,10 @@ The way that we use the internet would be vastly different if we couldn’t save
       * See code snippet 7
 
 
-### Conclusion / So What?
+## Conclusion / So What?
 Databases are extremely powerful tools that allow for applications to store information. Without them, you could never email your friends from Gmail, post cat memes to Facebook, check out your friends on Instagram, and watch funny videos on Tumblr.
 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + MySQL workbench works on all computers (PC, Mac, Chromebook)
 + Make sure they understand how SQL works and test the DB before class
