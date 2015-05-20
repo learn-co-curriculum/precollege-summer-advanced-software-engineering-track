@@ -6,7 +6,7 @@ _A full lecture is available [here](LECTURE.md)_
 
 Seed our database with data to make our app actually functional. 
 
-## SWBATS
+## SWBATs
 
 + Understand what a seeds file is and why we use it
 + Use a provided seeds file to populate their local database

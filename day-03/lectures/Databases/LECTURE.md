@@ -5,7 +5,7 @@
 
 ***Add a database to a Sinatra application in order to persist data***
 
-## SWABTS
+## SWBATs
 
 + DATABASES - Explain why databases are important 
 + DATABASES - Describe the structure of a database

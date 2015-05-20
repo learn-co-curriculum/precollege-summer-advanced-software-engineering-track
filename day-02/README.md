@@ -86,7 +86,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-##SWBATS
+##SWBATs
 
 + FORMS - Explain how data is passed between webpages via URL params
 + FORMS - Build HTML form with form tags, input tags and submit button

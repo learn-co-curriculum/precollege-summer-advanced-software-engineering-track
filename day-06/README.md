@@ -83,7 +83,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 </table>
 
 
-## SWBATS
+## SWBATs
 
 + Understand what a seeds file is and why we use it
 + Use a provided seeds file to populate their local database

@@ -2,7 +2,7 @@
 
 _A full lecture is available [here](LECTURE.md)_
 
-##SWBATS
+##SWBATs
 ***Incorporate user authentication and sessions in a Sinatra to maintain a logged in state and keep track of data as a user moves through your app***
 
 
