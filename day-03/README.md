@@ -85,3 +85,15 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
+
+## SWBATs
+
++ DATABASES - Explain why databases are important 
++ DATABASES - Describe the structure of a database
++ SQL - Create and modify tables and access info from tables via SQL queries
++ SINATRA - Connect a Sinatra app to a DB
++ RAKE - Complete tasks using Rake (list tasks via Rake -T)
++ ACTIVE RECORD/RAKE - Understand why we use migrations
++ FORMS -  Build up and down migrations with proper syntax
++ MODEL - Understand that ActiveRecord works with models to execute SQL commands.
++ ACTIVE RECORD - Use Active Record to access data from a database

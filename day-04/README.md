@@ -81,3 +81,27 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
+
+## SWBATS
+
+### MVC
+
++ Build model, view and controller for an additional model (Users)
+
+### ActiveRecord
+
++ Set up has_many/belongs_to relationships
++ Understand how has_many/belongs_to works via a `user_id` column (or similar equivalent for other models)
++ Build up and down migrations to both create and modify tables
+
+### Forms
+
++ Build forms for something like tweets that connect a tweet object to the user it belongs to
++ Build a sign up form for new users
++ Layout.erb
+
+### MVC
+
++ Create a sign up POST controller that works with the sign up form to create new users
++ Create a `layout.erb` template and understand how the Ruby keyword `yield` is used within `layout.erb` to render partials
++ Advanced Students - start thinking about how to create another model to track user's followers or start using ActiveRecord validations?
