@@ -1,6 +1,4 @@
-# DAY-06 Using Seeds
-
-_A full lecture is available [here](LECTURE.md)_
+# Using Seeds - Lecture Notes
 
 ## Objective
 
