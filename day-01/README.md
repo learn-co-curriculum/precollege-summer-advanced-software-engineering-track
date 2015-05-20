@@ -107,6 +107,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + SINATRA - Understand why we need a config.ru file
 + SINATRA - Understand what goes into the public folder, gemfile and config folder (environment configurations)
 + NB - Must use rackup (as opposed to shotgun) for this demo (shotgun restarts server every time page is refreshed and tweets disappear)
-
-
-

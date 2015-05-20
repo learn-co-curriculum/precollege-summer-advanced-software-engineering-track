@@ -1,6 +1,6 @@
 # Ruby Review - Full Lecture
 
-## SWBATS
+## SWBATs
 
 + Recall basic Ruby syntax
 + Assign a variable to different data types
