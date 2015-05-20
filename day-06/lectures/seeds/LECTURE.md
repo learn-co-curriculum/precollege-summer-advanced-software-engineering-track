@@ -1,4 +1,4 @@
-# Using Seeds - Lecture Notes
+# Using Seeds - Full Lecture
 
 ## Objective
 

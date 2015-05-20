@@ -1,4 +1,4 @@
-# Review - Lecture Notes
+# Review - Full Lecture
 
 ### Motivation / Why Should You Care?
 You guys have learned A TON in the past 5 classes - MVC, forms, databases, user sessions. SO MUCH. It’s a lot to hold in your head at once, but luckily you don’t have to do that! Part of becoming a good developer is just practicing as much as possible - by building things - and getting good at knowing where to look stuff up. We are going to give you guys all day today to practice what you’ve learned so far by building a project from the ground up - the Flinstagram!! Before we get started there, we're going to build a ToDo List app together.

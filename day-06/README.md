@@ -33,7 +33,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:30</td>
         <td>Seed File Lecture</td>
         <td>
-            <a href="lecture/seeds/LECTURE.md">Lecture Guide: Seed File</a>
+            <a href="lecture/seeds/LECTURE.md">Lecture: Seed File</a>
             <br>
             <a href="lecture/seeds">Lecture Notes</a>
         </td>
@@ -81,7 +81,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-## Lectures
-+ [Review Lecture](lectures/review)
-+ [Seeding a Database](lectures/seeds)
