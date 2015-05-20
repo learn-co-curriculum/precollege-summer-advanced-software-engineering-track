@@ -1,7 +1,7 @@
 ##Objective
 ***Incorporate forms into a Sinatra application in order to create and post new tweets.***
 
-##SWABTS
+##SWBATS
 
 + FORMS - Explain how data is passed between webpages via URL params
 + FORMS - Build HTML form with form tags, input tags and submit button

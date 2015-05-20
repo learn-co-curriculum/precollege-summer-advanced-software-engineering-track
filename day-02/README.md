@@ -86,3 +86,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
+##SWBATS
+
++ FORMS - Explain how data is passed between webpages via URL params
++ FORMS - Build HTML form with form tags, input tags and submit button
++ FORMS - Understand the importance of form tags and the submit button
++ FORMS - Understand how type and name in the input tag work
++ FORMS - Set up a form with a POST method and action (connecting to route)
++ FORMS - Understand why we use the POST method in forms (as opposed to GETS)
++ CONTROLLERS - Set up a controller with the appropriate actions to process info from a form
+
