@@ -15,7 +15,12 @@ Real World Apps:
 4. Here are some things our kids have built using that methodology
 Student Examples:
 
-5. Ideate
+5. Constraints
+The problem is something you have a personal connection to or care a lot about
+The customer is someone who is easily accessible (both in-person close to the school and online)
+(White things vs. white things in a kitchen exercise to illustrate power of constraints)
+
+6. Ideate
 
 How-Might-We Exercise: Students learn how asking the right questions can inspire powerful ideation (60 minutes)
 
@@ -43,14 +48,12 @@ Facilitating the HOW MIGHT WE exercise
 ##WHY facilitate a brainstorm 
 Good facilitation is key to a generative brainstorm. You brainstorm to come up with many, wide-ranging ideas; a good facilitator sets the stage for the team to be successful doing this. 
 
-##HOW to facilitate brainstorm
-ENERGY – As the facilitator it is your task to keep the ideas flowing. Perhaps the most important aspect of a successful brainstorm is the seed question that you are brainstorming about (see the “How Might We” method card for more information). During the brainstorm keep a pulse on the energy of the group. If the group is slowing down or getting stuck, make an adjustment. Create a variation to the “How-might-we?” (HMW) statement to get the group thinking in another direction (prepare some HMW options ahead of time). Or have a few provocative ideas in your back pocket that you can lob in to re-energize the team.
+###How to facilitate brainstorm
+1. ENERGY – As the facilitator it is your task to keep the ideas flowing. Perhaps the most important aspect of a successful brainstorm is the seed question that you are brainstorming about  D
 CONSTRAINTS – Add constraints that may spark new ideas. “What if it had to be round?,” “How would superman do it?,” “How would your spouse design it?,” “How would you design it with the technology of 100 years ago?” Additionally you can create process constraints. Try putting a time limit on each howmight-we statement; shoot for 50 ideas in 20 minutes. 
-SPACE – Be mindful about the space in which you conduct a brainstorm. Make sure that there is plenty of vertical writing area. This allows the group to generate a large number of potential solutions. Strike a balance between having a footprint that is big enough for everyone, but also is not so large that some people start to feel removed. A good rule of thumb is that all members of the group should be able to reach the board in two steps. Also, make sure each person has access to sticky notes and a marker so they can capture their own thoughts and add them to the board if the scribe cannot keep up with the pace. (See more about scribing on the “Brainstorming” method card.)
+SPACE – Be mindful about the space in which you conduct a brainstorm. Make sure that there is plenty of vertical writing area. This allows the group to generate a large number of potential solutions. Strike a balance between having a footprint that is big enough for everyone, but also is not so large that some people start to feel removed. A good rule of thumb is that all members of the group should be able to reach the board in two steps. Also, make sure each person has access to sticky notes and a marker so they can capture their own thoughts and add them to the board if the scribe cannot keep up with the pace. 
 
-Constraints
-The problem is something you have a personal connection to or care a lot about
-The customer is someone who is easily accessible (both in-person close to the school and online)
+
 
 
 
