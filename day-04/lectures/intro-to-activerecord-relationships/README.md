@@ -1,4 +1,6 @@
-# Intro to ActiveRecord Relationships - Full Lecture
+#DAY-04 Intro to ActiveRecord Relationships
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## Objective
 
