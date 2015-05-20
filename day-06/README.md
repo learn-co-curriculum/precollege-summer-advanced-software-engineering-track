@@ -30,7 +30,16 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>10:00 - 11:30</td>
+        <td>10:30 - 11:30</td>
+        <td>Seed File Lecture</td>
+        <td>
+            <a href="lecture/seeds/LECTURE.md">Lecture Guide: Seed File</a>
+            <br>
+            <a href="lecture/seeds">Lecture Notes</a>
+        </td>
+    </tr>
+    <tr>
+        <td>10:30 - 11:30</td>
         <td>Group Project - Flinstagram!</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-adv-se-flinstagram/">Group Project: Flinstagram</a>
