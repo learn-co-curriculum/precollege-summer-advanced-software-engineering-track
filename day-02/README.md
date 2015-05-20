@@ -25,7 +25,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-2"> Completed Day 2 Fwitter</a>
             <br>
-            <a href="lectures/fwitter_forms/README.md">Teacher Guide with Fwitter</a>
+            <a href="lectures/fwitter_forms"> Lecture Notes: Forms</a>
             <br>
             <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
 
@@ -84,9 +84,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-## Resources
-
-## Lectures
-
-- [Intro to Ruby](lectures/ruby-methods)
-- [Intro to Git](lectures/intro-to-git)
