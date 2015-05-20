@@ -1,4 +1,6 @@
-# Ruby Review - Full Lecture
+#DAY-01 Ruby Review
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## SWBATS
 
@@ -26,25 +28,12 @@ In Intro to Software Engineering, you built full MVC web applications and became
 ### Methods
 
 + List out some of the different built in Ruby methods we can use. 
-+ What about if we want to define our own method? How can we do that?
-```ruby
-def say_hi
-	puts "Hi!!"
-end
-```
++ We can also define our own methods
 + Walk through building out a program that takes in a user's name and says hello to them. 
 
 #### Conditionals
 
 + Review using conditionals to affect what happens when our program runs
-+ EXAMPLE: 
-```ruby
-if name.downcase == "Beyonce" 
-	puts "Beyonce! I LOVE YOUR MUSIC!"
-else
-	puts "Hello, #{name}"
-end
-```
 
 #### Arrays and Hashes
 
@@ -67,59 +56,19 @@ end
 ##### Iterating through Arrays and Hashes
 
 + We mentioned the `.each` method earlier. This lets us go through an array or hash and perform an action on each item in it. 
-	* `.each`
-
-	```ruby
-	my_array.each do |item| #item is a placeholder for each item in the array - you can name it whatever you want!
-		#do something to or with the item here!
-	end
-
-	my_hash.each do |key, value| # here, we can iterate through the keys and values
-		puts "The key is #{key} and the value is #{value}"
-	end 
-	```
+	
 ##### Nested Structures
 
 + Arrays and hashes can store other arrays and hashes. This can be really useful for keeping our data organized.
 ```ruby
 stuff_in_my_house = {"food"=>["lettuce", "cereal", "popcorn"], "furniture" =>["sofa", "bed", "chair"], "electronics" => ["TV", "Laptop", "PlayStation"]}
 ```
-+ In this example, `stuff_in_my_house["food"]` will return an array. We can treat this like any other array. For example: 
-```ruby
-stuff_in_my_house["food"].each do |food|
-	puts "I like to eat #{food}!"
-end
-```
 
 #### Object Orientation
 + Imagine if Facebook used hashes to represent all of their users. 
-
-```ruby
-steph = {
-  :name => "Steph",
-  :email => "coleman@flatironschool.com",
-  :password => "flatiron",
-  :friends => 0
-}
-```
-
 + It would be really tricky to keep track of things like friends and interests in common. Instead, we create a User template and then create instances of the user. 
-
-```ruby
-  class User
-  end
-
-  steph = User.new
-```
 + We can store our properties by setting up attr_accessors
 
-```ruby
-  class User
-  	attr_accessor :name, :email, :password, :friends
-  end
-
-  steph = User.new
-```
 
 ### Conclusion/So What?
 

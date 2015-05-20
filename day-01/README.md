@@ -28,7 +28,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:20 - 11:30</td>
         <td>Ruby Review</td>
         <td>
-            <a href="lectures/ruby-review">Lecture: Ruby Review</a>
+            <a href="lectures/ruby-review/LECTURE.md">Lecture: Ruby Review</a>
+            <br>
+            <a href="lectures/ruby-review">Lecture Notes</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-ruby-assessment">Ruby Review Assesment</a>
             <br>
@@ -47,9 +49,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>12:30 - 2:20</td>
         <td>MVC Review</td>
         <td>
-            <a href="lectures/MVC_Review/FULL_LECTURE.MD">Teacher Guide Full Script</a>
+            <a href="lectures/MVC_Review/LECTURE.md">Lecture: MVC Review</a>
             <br>
-            <a href="lectures/MVC_Review/README.MD"> Teacher Abridged Guide</a>
+            <a href="lectures/MVC_Review">Lecture Notes</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/oo-jukebox">OO Lab: Jukebox</a>
             <br>
@@ -75,8 +77,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-## Resources
 
 ## Lectures
 - [Ruby Review](lectures/ruby-review)

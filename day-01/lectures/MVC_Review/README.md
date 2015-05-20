@@ -1,4 +1,6 @@
-# MVC Review - Lecture Notes
+#DAY-01 MVC Review
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## SWBATs
 *Build a basic Sinatra application using the principles of MVC architecture*
