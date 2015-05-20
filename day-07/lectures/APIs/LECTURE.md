@@ -1,4 +1,4 @@
-# APIs - Lecture Notes
+# APIs - Full Lecture
 
 ## Objective
 **Students will be able to integrate an API into their project to provide additional functionality***

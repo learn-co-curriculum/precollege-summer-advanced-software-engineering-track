@@ -1,4 +1,4 @@
-# Ideation - Lecture Notes
+# Ideation - Full Lecture
 
 
 ###Ideation Day
