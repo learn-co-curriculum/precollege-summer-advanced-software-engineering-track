@@ -82,6 +82,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 
-## Lectures
-+ [Review Lecture](lectures/review)
-+ [Seeding a Database](lectures/seeds)
+## SWBATS
+
++ Understand what a seeds file is and why we use it
++ Use a provided seeds file to populate their local database
++ Create and run their own seed files
