@@ -39,9 +39,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Setting up Users and Tweets in Fwitter + Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-snapchat"> Snapchat Lab</a></br>
-            <a href="https://github.com/learn-co-curriculum/OO-my-pets">Lab: OO My Pets</a>
-            <a href="https://github.com/learn-co-curriculum/jukebox-cli">Lab: OO CLI Jukebox</a>
-            <a href="https://github.com/learn-co-curriculum/playlister-sinatra">Lab: Playlister Sinatra</a>
+            <a href="https://github.com/learn-co-curriculum/OO-my-pets">Lab: OO My Pets</a></br>
+            <a href="https://github.com/learn-co-curriculum/jukebox-cli">Lab: OO CLI Jukebox</a></br>
+            <a href="https://github.com/learn-co-curriculum/playlister-sinatra">Lab: Playlister Sinatra</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-ar-relationships-lab">Stretch Lab: Direct Messages</a>
         </td>
     </tr>
