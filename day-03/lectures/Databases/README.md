@@ -1,3 +1,7 @@
+#DAY-03 Databases 
+
+_A full lecture is available [here](LECTURE.md)_
+
 ###SWABTS
 ***Add a database to a Sinatra application in order to persist data***
 

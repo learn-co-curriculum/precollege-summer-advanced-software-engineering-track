@@ -25,13 +25,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-3"> Completed Day 3 Fwitter</a>
             <br>
-            <a href="lectures/Databases/README.md"> Teacher Guide</a>
+            <a href="lectures/Databases">Lecture Notes</a>
             <br>
-            <a href="lectures/FULL-LECTURE.md/README.md"> Full Lecture Guide</a>
+            <a href="lectures/Databases/LECTURE.md">Lecture: Databases</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-ruby2-teachers-guide-mysql-setup"> Teacher Guide Setup MySQL</a>
             <br>
-            <a href="leactures/code_snippets.md">Code Snippets</a>
+            <a href="leactures/Databases/code_snippets.md">Code Snippets</a>
             
         </td>
     </tr>
@@ -85,7 +85,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-## Resources
-
-## Lectures
