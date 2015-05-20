@@ -1,4 +1,6 @@
-###SWABTS
+#Databases - Full Lecture
+
+###SWBATs
 ***Add a database to a Sinatra application in order to persist data***
 
   + DATABASES - Explain why databases are important 

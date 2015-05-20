@@ -2,7 +2,7 @@
 
 _A full lecture is available [here](LECTURE.md)_
 
-###SWABTS
+###SWBATS
 ***Add a database to a Sinatra application in order to persist data***
 
 ### Motivation / Why Should You Care?
