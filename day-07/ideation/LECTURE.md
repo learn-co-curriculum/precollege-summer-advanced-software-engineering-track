@@ -1,6 +1,5 @@
-#DAY-07 Ideation
+# Ideation - Lecture Notes
 
-_A full lecture is available [here](LECTURE.md)_
 
 ###Ideation Day
 

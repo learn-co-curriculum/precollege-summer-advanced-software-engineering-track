@@ -1,6 +1,4 @@
-#DAY-07 APIs
-
-_A full lecture is available [here](LECTURE.md)_
+# APIs - Lecture Notes
 
 ###Objective
 **Students will be able to integrate an API into their project to provide additional functionality***

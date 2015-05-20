@@ -14,10 +14,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1Vcxj3imPQ2Z0JLWDLJXbfIqiRSzQSip6DvpRd-4FtO4/edit?usp=sharing">Day 7 Deck</a>
+            <a href="https://docs.google.com/presentation/d/1Vcxj3imPQ2Z0JLWDLJXbfIqiRSzQSip6DvpRd-4FtO4/edit?usp=sharing">Day 7 Deck</a><br>
             <a href="https://github.com/learn-co-curriculum/hs-detention-oo-lab">ToDo: Detention OO Lab</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/collections_practice">ToDo: Collections Practice</a>
+            <a href="https://github.com/learn-co-curriculum/collections_practice">ToDo: Collections Practice</a><br>
 
         </td>
     </tr>
@@ -25,7 +25,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 12:00</td>
         <td>Ideation</td>
         <td>
-            <a href="lectures/ideation">Lecture: Ideation</a>
+            <a href="lectures/ideation/LECTURE.md">Lecture: Ideation</a>
+            <br>
+            <a href="lectures/ideation">Lecture Notes</a>
+            <br>
         </td>
     </tr>
     <tr>
@@ -39,7 +42,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>1:00 - 2:00</td>
         <td>API Lesson</td>
         <td>
-        <a href="lectures/APIs">Lecture: APIs</a>
+        <a href="lectures/APIs/LECTURE.md">Lecture: APIs</a>
+        <br>
+        <a href="lectures/APIs">Lecture Notes</a>
+        <br>
         </td>
     </tr>
     <tr>
@@ -57,8 +63,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-
-## Resources
-
-## Lectures
-
