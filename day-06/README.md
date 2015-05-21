@@ -42,6 +42,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:30</td>
         <td>Group Project - Flinstagram!</td>
         <td>
+            <a href="lectures/group-project">Lecture: Group Project</a>
             <a href="https://github.com/learn-co-curriculum/hs-adv-se-flinstagram/">Group Project: Flinstagram</a>
         </td>
     </tr>
