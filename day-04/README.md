@@ -27,7 +27,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:30</td>
         <td>Intro to ActiveRecord relationships</td>
         <td>
-            <a href="lectures/intro-to-activerecord-relationships/LECTURE.md">Lecture: Intro to ActiveRecord Relationships</a>
+            <a href="lectures/intro-to-activerecord-relationships/LECTURE.md">Lecture Guides: Intro to ActiveRecord Relationships</a>
             <br>
             <a href="lectures/intro-to-activerecord-relationships">Lecture Notes</a>
             <br>

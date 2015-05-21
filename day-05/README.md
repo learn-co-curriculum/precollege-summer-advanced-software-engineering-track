@@ -25,7 +25,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
              <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-5">Completed Day 5 Fwitter</a>
              <br>
-             <a href="lectures/sessions_authorization/LECTURE.md">Lecture: Sessions Authorization</a>
+             <a href="lectures/sessions_authorization/LECTURE.md">Lecture Guides: Sessions Authorization</a>
             <br>
             <a href="lectures/sessions_authorization/">Lecture Notes</a>
             <br>

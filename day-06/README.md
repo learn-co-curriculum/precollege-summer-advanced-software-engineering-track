@@ -23,7 +23,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:00</td>
         <td>Review all of the pieces that we’ve learned so far - forms/databases/active record/sessions</td>
         <td>
-            <a href="lectures/review/LECTURE.md">Lecture: Review</a>
+            <a href="lectures/review/LECTURE.md">Lecture Guides: Review</a>
             <br>
             <a href="lectures/review">Lecture Notes</a>
             <br>

@@ -42,7 +42,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>1:00 - 2:00</td>
         <td>API Lesson</td>
         <td>
-        <a href="lectures/APIs/LECTURE.md">Lecture: APIs</a>
+        <a href="lectures/APIs/LECTURE.md">Lecture Guides: APIs</a>
         <br>
         <a href="lectures/APIs">Lecture Notes</a>
         <br>
