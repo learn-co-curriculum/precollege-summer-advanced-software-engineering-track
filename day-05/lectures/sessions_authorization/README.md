@@ -46,8 +46,7 @@ Browsers are like goldfish - they have no memory. Every time you go from one pag
 + **HELPER METHODS**
   * Helper methods set up in the controller allow us to use them in the views
   * Help methods usually keep track of specific tasks such as a current user
-  * We can define helper methods in the controller by adding a line underneath where we declare the controller for `helper_method`
-  * We could also use a block to define our helper methods
+  * We can use a block to define our helper methods
   * Helper methods can be used in the view
 
 ### Conclusion / So What?
