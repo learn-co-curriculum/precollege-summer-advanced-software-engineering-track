@@ -47,7 +47,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Fwitter + Swag Shop + Labs</td>
         <td>
             Students should finish setting up Fwitter with a Database, then work on Swag Shop, then Labs:<br>
-            <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store-2">Lab: Swag Shop</a>
+            <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store-day03">Lab: Swag Shop</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-sql-queries-challenge"> Lab: SQL Challenge</a>
             <br>

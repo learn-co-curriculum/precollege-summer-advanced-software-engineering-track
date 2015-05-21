@@ -35,8 +35,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:15 - 11:30</td>
         <td>Labs</td>
         <td>
-          <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store">Lab: Student Practice with Swag Shop</a>
-            <br>
             <a href="https://github.com/learn-co-curriculum/rps-game-app"> Lab: Rock Paper Scissors Sinatra</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-module-2-challenges">Lab: Fwitter Challenges</a>
