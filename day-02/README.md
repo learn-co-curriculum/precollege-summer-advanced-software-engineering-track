@@ -25,7 +25,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-2"> Completed Day 2 Fwitter</a>
             <br>
-            <a href="lectures/fwitter_forms/LECTURE.md">Lecture: Forms</a>
+            <a href="lectures/fwitter_forms/LECTURE.md">Lecture Guides: Forms</a>
             <br>
             <a href="lectures/fwitter_forms">Lecture Notes</a>
             <br>
@@ -54,7 +54,16 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>12:30 - 1:30</td>
+        <td>12:30 - 1:00</td>
+        <td>Dyanmic URLs</td>
+        <td>
+            <a href="lectures/dynamic_urls/LECTURE.md"> Lecture Guides: Dynamic URLs</a>
+            <br>
+            <a href="lectures/dynamic_urls"> Lecture Notes </a>
+        </td>
+    </tr>
+    <tr>
+        <td>1:00 - 1:30</td>
         <td>Labs</td>
         <td>
             Work on Labs from Above
@@ -95,4 +104,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + FORMS - Set up a form with a POST method and action (connecting to route)
 + FORMS - Understand why we use the POST method in forms (as opposed to GETS)
 + CONTROLLERS - Set up a controller with the appropriate actions to process info from a form
-
++ DYNAMIC URL - Identify a dynamic URL
++ DYNAMIC URL - Understand how dynamic URLs work to display object specific information

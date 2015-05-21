@@ -4,6 +4,10 @@
 
 *Understand Dynamic URLS and incorporate them into an application*
 
+##SWBATs
+
++ Identify a dynamic URL
++ Understand how dynamic URLs work to display object specific information
 
 ## Motivation / Why Should You Care?
 How does Twitter post your tweets? How does facebook upload your photos? How does tumblr air your most secret guilty pleasures? All of these web applications take in information from a user, mutate that information, and then display it back to the user.
