@@ -103,6 +103,42 @@ Browsers are like goldfish - they have no memory. Every time you go from one pag
       * When the user signed in that we set the session[:user_id] to the current user’s ID. Use `find_by` method we learned about earlier in class to find the current user from the `session[:user_id`] - `User.find_by(:id => session[:user_id])`
     * Everyone set this up in their `/tweets` route and git commit and push. Try signing up a few more users and signing in and signing out.
 
++ **HELPER METHODS**
+  * Helper methods set up in the controller allow us to use them in the views
+  * Help methods usually keep track of specific tasks such as a current user
+  * We can define helper methods in the controller by adding a line underneath where we declare the controller for `helper_method`:
+  ```ruby
+    class ApplicationController < ActionController::Base
+    helper_method :current_user, :logged_in?
+
+    def current_user
+      @current_user ||= User.find_by_id(session[:user])
+    end
+
+     def logged_in?
+       current_user != nil
+     end
+  end
+  ```
+  * We could also use a block to define our helper methods
+    ```ruby
+    helpers do
+      def signed_in?
+        session[:user_id]
+      end
+
+      def current_user
+        current_user = User.find(session[:user_id])
+      end
+    end
+    ```
+  * Now those methods can be used in the view:
+    ```ruby
+    <% if logged_in? -%>Welcome, <%= current_user.name %><% end -%>
+    ```
+  * Using a helper method allows us to call the method `logged_in?` in the view.
+
+
 ## Conclusion / So What?
 Applications are powered by specific user input, whether your posting a comment to a news article, uploading an image to Instagram, or liking your friends posts on Facebook.Sessions and authorization are used to keep track of a single user's activity on an application, and prohibit a user from posting content as someone else.
 

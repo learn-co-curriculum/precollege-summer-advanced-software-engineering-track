@@ -43,6 +43,13 @@ Browsers are like goldfish - they have no memory. Every time you go from one pag
   * Now we need to restrict people so they can only tweet from their own account. Instead of a dropdown of all users, need to display just theirs
     * Automatically populate the form with the current user’s name and their ID.
 
++ **HELPER METHODS**
+  * Helper methods set up in the controller allow us to use them in the views
+  * Help methods usually keep track of specific tasks such as a current user
+  * We can define helper methods in the controller by adding a line underneath where we declare the controller for `helper_method`
+  * We could also use a block to define our helper methods
+  * Helper methods can be used in the view
+
 ### Conclusion / So What?
 Applications are powered by specific user input, whether your posting a comment to a news article, uploading an image to Instagram, or liking your friends posts on Facebook.Sessions and authorization are used to keep track of a single user's activity on an application, and prohibit a user from posting content as someone else.
 
