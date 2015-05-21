@@ -96,5 +96,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + MVC - Modify sign up controller to create a new session
 + SINATRA - Create and understand how to use Sinatra helper methods like signed_in? and current_user
 + VIEW - Use if/else with erb tags to control what is displayed to the user in a view
++ CONTROLLER - Create and use helper methods
 + Advanced kids - Have them create custom error messages? Run with helper methods and if/else statements to customize views as much as possible?
 
