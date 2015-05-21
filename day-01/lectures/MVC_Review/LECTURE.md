@@ -26,7 +26,7 @@ You all built projects in Ruby 1 that you should be proud of, but you probably w
 
 ### Lesson Plan
 In this lesson, students will be creating their own version of Twitter using Sinatra.
-***Sample Completed Fwitter for this lesson can be found [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-1)***
+***Sample Completed Fwitter for this lesson can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day01-mvc)***
 
 **HOW WEB APPLICATIONS WORK**
 + MVC stands for Model View Controller

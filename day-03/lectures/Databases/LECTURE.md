@@ -25,7 +25,7 @@ The way that we use the internet would be vastly different if we couldn’t save
 
 ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
 
-***Sample completed project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-3)
+***Sample completed project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases)***
 
 
 + **WHAT IS A DATABASE**

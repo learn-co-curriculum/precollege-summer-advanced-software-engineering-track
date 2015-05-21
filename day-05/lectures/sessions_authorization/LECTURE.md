@@ -26,7 +26,7 @@ Browsers are like goldfish - they have no memory. Every time you go from one pag
 
 *** Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-5-code-snippets)***
 
-*** Look at the completed sample Fwitter [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-5)***
+*** Look at the completed sample Fwitter [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day05-sessions-authorization)***
 
 + **COOKIES**
   * Little pieces of data that a web application or website stores on your computer - like a trail of crumbs leading back to you.

@@ -14,7 +14,7 @@ Yesterday we did a ton of work with ActiveRecord to get our databases hooked up 
 
 ***Code snippets can be found [here](./code-snippets.md)***
 
-*** Completed Fwitter project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-4)
+*** Completed Fwitter project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day04-activerecord-relationships) ***
 
 + Why do we want separate tables and models: (tweet model, user model, hashtag model)? Why not have one model called "thing" that can represent everything? 
   * Because different models have different attributes and responsibilities.

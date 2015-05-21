@@ -10,6 +10,8 @@ Browsers are like goldfish - they have no memory. Every time you go from one pag
 
 ### Lesson Plan
 
+*** Look at the completed sample Fwitter [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day05-sessions-authorization)***
+
 + **COOKIES: **Little pieces of data that a web application or website stores on your computer - like a trail of crumbs leading back to you.
   * They usually contain a unique string of letters and numbers that helps the site/app keep track of who you are - by keeping track of your session - your time logged into or visiting the site. 
 

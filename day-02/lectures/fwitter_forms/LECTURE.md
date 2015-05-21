@@ -19,7 +19,7 @@ How does Twitter post your tweets? How does facebook upload your photos? How doe
 
 
 ### Lesson Plan
-***This lesson will be using the Fwitter Project Code for completed today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-2)***
+***This lesson will be using the Fwitter Project Code for completed today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms)***
 
 ***Code Snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-2-code-snippets)***
 
