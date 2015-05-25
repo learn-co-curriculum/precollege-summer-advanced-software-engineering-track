@@ -9,24 +9,22 @@
 ### Motivation / Why Should You Care?
 + We’ve all been in the situation where we want to make something, but are totally overwhelmed by the blank page. The blinking cursor of nothingness. It’s totally daunting. Since we’re going to start working on our final projects, we’re going to first tackle the brainstorming process so that we have a few potential projects that we can work on. The point of this course is to learn to build web applications, combining front-end programming with back-end programming, but you can't build an application about nothing. You need a good idea, first!
 
-+You've spent a good chunk of your summer learning MVC — the architecture that supports most applications that you use, love, or have ever intereacted with.  You hold enormous power in your hands!  Combing the front-end ad backend, with the ability to store data or retrieve it through an API.  sIn order for you to use this power effectively, let's dive into a brainstorming process.  Some of you already have final project ideas — that's cool.  Take this opportunity to refine them.
++ You've spent a good chunk of your summer learning MVC — the architecture that supports most applications that you use, love, or have ever intereacted with.  You hold enormous power in your hands!  Combing the front-end ad backend, with the ability to store data or retrieve it through an API.  sIn order for you to use this power effectively, let's dive into a brainstorming process.  Some of you already have final project ideas — that's cool.  Take this opportunity to refine them.
 
 ###Lesson Plan
 
 1. Show examples of ineresting web applications that utilize basic data persistence.
++ Examples:
 
-Examples:
-Real World Apps:
-
-4. Here are some things our kids have built using that methodology
+2. Here are some things our kids have built using that methodology
 Student Examples:
 
-5. Constraints
-The problem is something you have a personal connection to or care a lot about
-The customer is someone who is easily accessible (both in-person close to the school and online)
+3. Constraints
+  + The problem is something you have a personal connection to or care a lot about
+  + The customer is someone who is easily accessible (both in-person close to the school and online)
 (White things vs. white things in a kitchen exercise to illustrate power of constraints)
 
-6. Ideate
+4. Ideate
 
 
 
