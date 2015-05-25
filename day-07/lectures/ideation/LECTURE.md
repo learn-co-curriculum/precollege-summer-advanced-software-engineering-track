@@ -34,7 +34,8 @@ Student Examples:
       + What are some problems you experience in your community (city)?
       + What are some problems you want to address in the world?
   + Following each segment, have the students take their post-its up to the board.  Have them take 10 minutes to  organize into teams around a problem they find interesting.
-  #### Solution brainstorm
+  
+#### Solution brainstorm
     + Once students are organized into groups, have them clarify who their end-user will be.  Who are they building this app for? How do they currently solve this problem?  What are the shortcomings of current solutions? Have each group share their use case.
     + Have students take 3 minutes to write down as many solutions to their groups problems as possible individually.
     + If teams of 4 have students partner up and take an additional 3 minutes to share and refine ideas.
