@@ -14,7 +14,6 @@
 ###Lesson Plan
 
 1. Show examples of ineresting web applications that utilize basic data persistence.
-+ Examples:
   + http://www.data.gov/
   + NYC Open data: https://nycopendata.socrata.com/
 
