@@ -1,16 +1,22 @@
 # Ideation - Full Lecture
 
 
-###Ideation Day
+##Ideation Day
 
-1. Show examples of ineresting web applications that utilize basic data persistence
+###SWABTs
++ Understand the brainstorming and design process and decide on an idea for their final project.
+
+### Motivation / Why Should You Care?
++ We’ve all been in the situation where we want to make something, but are totally overwhelmed by the blank page. The blinking cursor of nothingness. It’s totally daunting. Since we’re going to start working on our final projects, we’re going to first tackle the brainstorming process so that we have a few potential projects that we can work on. The point of this course is to learn to build web applications, combining front-end programming with back-end programming, but you can't build an application about nothing. You need a good idea, first!
+
++You've spent a good chunk of your summer learning MVC — the architecture that supports most applications that you use, love, or have ever intereacted with.  You hold enormous power in your hands!  Combing the front-end ad backend, with the ability to store data or retrieve it through an API.  sIn order for you to use this power effectively, let's dive into a brainstorming process.  Some of you already have final project ideas — that's cool.  Take this opportunity to refine them.
+
+###Lesson Plan
+
+1. Show examples of ineresting web applications that utilize basic data persistence.
 
 Examples:
 Real World Apps:
-
-"These apps or persist data in order to present a custom, dynamic experience to the user.  
-2. How these sites work (like Google translate): User input => Fetch custom data => manipulate data => custom output
-3. This is exactly what we have been learning.  Active record gives us tremendous power to store data, and our MVC framework gives us the ability to manipulate it and display it in a cusotm way.  Additionally, you've learned that APIs are really just an interface to access a particular data set.  With APIs, you can substitute stored data for dynamically retrieving it.
 
 4. Here are some things our kids have built using that methodology
 Student Examples:
@@ -22,28 +28,7 @@ The customer is someone who is easily accessible (both in-person close to the sc
 
 6. Ideate
 
-How-Might-We Exercise: Students learn how asking the right questions can inspire powerful ideation (60 minutes)
 
-Why HOW MIGHT WE
-
-“How might we” (HMW) questions are short questions that launch brainstorms. HMWs are seeds for your ideation that fall out of your point-of-view statement, design principles, or insights.
- Create a seed that is broad enough that there are a wide range of solutions but narrow enough that the team is provoked to think of specific, unique ideas. For example, between the (possibly) too narrow “HMW create a cone to eat ice cream without dripping” and the too broad “HMW redesign dessert” might be the properly scoped “HMW redesign ice cream to be more portable.” 
-It should be noted, that the proper scope of the seed will vary with the project and how much progress you have made in your project work. 
-How to generate HOW MIGHT WE questions
-
-Begin with your Point of View (POV), insights, or problem statement. Create small actionable questions that retain your unique and specific perspective. Write these questions beginning with the phrase, “How might we…” It is often helpful to brainstorm the HMW questions before the solutions brainstorm. For example, consider the following POV and resulting HMW statements. 
-
-Challenge: Redesign the ground experience at the local international airport POV: Harried mother of three, rushing through the airport only to wait hours at the gate, needs to entertain her playful children because “annoying little brats” only irritate already frustrated fellow passengers. 
-
-Amp up the good: HMW use the kids’ energy to entertain fellow passenger? Remove the bad: HMW separate the kids from fellow passengers? 
-Explore the opposite: HMW make the wait the most exciting part of the trip? Question an assumption: HMW entirely remove the wait time at the airport? 
-Go after adjectives: HMW we make the rush refreshing instead of harrying? 
-ID unexpected resources: HMW leverage free time of fellow passengers to share the load? 
-Create an analogy from need or context: HMW make the airport like a spa? Like a playground? 
-Play against the challenge: HMW make the airport a place that kids want to go? Change a status quo: HMW make playful, loud kids less annoying? 
-Break POV into pieces: HMW entertain kids? HMW slow a mom down? HMW mollify delayed passengers? 
-
-Facilitating the HOW MIGHT WE exercise
 
 ###How to facilitate brainstorm
 1. ENERGY – As the facilitator it is your task to keep the ideas flowing. Perhaps the most important aspect of a successful brainstorm is the seed question that you are brainstorming about  D
