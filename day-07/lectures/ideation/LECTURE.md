@@ -26,7 +26,7 @@ Student Examples:
   + Illustrate power of constraints: (Think of as many White things in 10 seconds vs. white things in a kitchen )
 
 4. Ideate (~1h)
-  +Problem brainstorm:
+  + Problem brainstorm:
     + On the board, create four categories: Friends and family, School, Community, World. 
     + Have students write down as many ideas as possible on post-it notes for three minutes for each of the following segments:
       + What are some problems you experience with your friends or family?
