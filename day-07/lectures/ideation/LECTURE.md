@@ -25,6 +25,11 @@ Student Examples:
 (White things vs. white things in a kitchen exercise to illustrate power of constraints)
 
 4. Ideate
+5. Cool data sets
+  + http://www.data.gov/
+  + NYC Open data: https://nycopendata.socrata.com/
+  + 
+
 
 
 
