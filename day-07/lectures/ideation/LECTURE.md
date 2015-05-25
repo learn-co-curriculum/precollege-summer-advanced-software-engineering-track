@@ -15,6 +15,8 @@
 
 1. Show examples of ineresting web applications that utilize basic data persistence.
 + Examples:
+  + http://www.data.gov/
+  + NYC Open data: https://nycopendata.socrata.com/
 
 2. Here are some things our kids have built using that methodology
 Student Examples:
@@ -22,7 +24,7 @@ Student Examples:
 3. Constraints
   + The problem is something you have a personal connection to or care a lot about
   + The customer is someone who is easily accessible (both in-person close to the school and online)
-(White things vs. white things in a kitchen exercise to illustrate power of constraints)
+  + Illustrate power of constraints: (Think of as many White things in 10 seconds vs. white things in a kitchen )
 
 4. Ideate (~1h)
   #### Problem brainstorm:
@@ -38,12 +40,9 @@ Student Examples:
     + Have students take 3 minutes to write down as many solutions to their groups problems as possible individually.
     + If teams of 4 have students partner up and take an additional 3 minutes to share and refine ideas.
     + Have teams come together and share ideas and pick their favorite solution. 
-5. Cool data sets
-  + http://www.data.gov/
-  + NYC Open data: https://nycopendata.socrata.com/
-  + 
-
-
+5. Refine
+  + Have students take 15 minutes to refine their idea.
+  + Have students write out three clear use cases for their app/solution.
 
 
 ###Hints and Hurdles 
