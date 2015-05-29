@@ -9,10 +9,17 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 3:00</td>
+        <td>9:00 - 2:00</td>
         <td>Project Mode!</td>
         <td>
             Students should work on projects all day. They should take a lunch break as appropriate. Feel free to add improv/review lectures as needed. 
+        </td>
+    </tr>
+        <tr>
+        <td>2:00 - 2:00</td>
+        <td>Graduation!</td>
+        <td>
+           <a href="https://github.com/learn-co-curriculum/hs-graduation-guidelines">Graduation Guide</a> 
         </td>
     </tr>
 </table>
