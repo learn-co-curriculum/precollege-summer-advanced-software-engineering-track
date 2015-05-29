@@ -55,6 +55,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day01-mvc"> Completed Day 1 Fwitter</a>
             <br>
+            <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store-day01">Lab: Student Practice with Swag Shop</a>
+            <br>
             <a href="https://github.com/learn-co-curriculum/oo-jukebox">OO Lab: Jukebox</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/fibo_finder">Stretch Lab: Fibonacci Finder</a>
