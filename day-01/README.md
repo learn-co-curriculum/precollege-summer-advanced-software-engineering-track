@@ -22,6 +22,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Learn Setup and Demo</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-nitrous-ssh-setup">Nitrous SSH Setup</a>
         </td>
     </tr>
     <tr>
@@ -76,7 +78,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Wrap Up</td>
         <td>
             Tell kids they are awesome.</br>
-            <a href="#">Micro Feedback</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-animal-quiz-code-challenge">Code Challenge: Animal Quiz</a></br>
         </td>
     </tr>

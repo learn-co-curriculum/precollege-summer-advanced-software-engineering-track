@@ -43,5 +43,14 @@
             <a href="https://github.com/learn-co-curriculum/hs-graduation-guidelines">Gradution Guidelines</a>
         </td>
     </tr>
+    <tr>
+        <td>2:50 - 3:00</td>
+        <td>Wrap Up</td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey"> Micro Feedback </a>
+            <br>
+            Tell the kids they're awesome!
+        </td>
+    </tr>
 </table>
 

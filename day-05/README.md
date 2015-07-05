@@ -80,6 +80,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:50 - 3:00</td>
         <td>Wrap Up</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey"> Micro Feedback </a>
+            <br>
+            Tell the kids they're awesome!
+            <br>
             <a href="https://github.com/learn-co-curriculum/anagram-detector">Code Challenge: Anagram Detector</a>
         </td>
     </tr>
