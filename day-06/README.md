@@ -30,7 +30,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:30</td>
+        <td>10:00 - 10:30</td>
         <td>Seed File Lecture</td>
         <td>
             <a href="lectures/seeds/LECTURE.md">Lecture: Seed File</a>
