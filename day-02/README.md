@@ -20,8 +20,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:15</td>
-        <td>HTML Forms in Fwitter</td>
+        <td>9:15 - 10:45</td>
+        <td>HTML Forms in Fwitter/Dynamic URLs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms"> Completed Day 2 Fwitter</a>
             <br>
@@ -29,10 +29,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="lectures/fwitter_forms">Lecture Notes</a>
             <br>
+            <a href="lectures/dynamic_urls/LECTURE.md"> Lecture Guides: Dynamic URLs</a>
+            <br>
+            <a href="lectures/dynamic_urls"> Lecture Notes </a>
             <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
 
     <tr>
-        <td>10:15 - 11:30</td>
+        <td>10:45 - 11:30</td>
         <td>Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/rps-game-app"> Lab: Rock Paper Scissors Sinatra</a>
@@ -52,16 +55,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>12:30 - 1:00</td>
-        <td>Dyanmic URLs</td>
-        <td>
-            <a href="lectures/dynamic_urls/LECTURE.md"> Lecture Guides: Dynamic URLs</a>
-            <br>
-            <a href="lectures/dynamic_urls"> Lecture Notes </a>
-        </td>
-    </tr>
-    <tr>
-        <td>1:00 - 1:30</td>
+        <td>12:30 - 1:30</td>
         <td>Labs</td>
         <td>
             Work on Labs from Above
