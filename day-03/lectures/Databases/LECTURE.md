@@ -138,6 +138,3 @@ The way that we use the internet would be vastly different if we couldn’t save
 Databases are extremely powerful tools that allow for applications to store information. Without them, you could never email your friends from Gmail, post cat memes to Facebook, check out your friends on Instagram, and watch funny videos on Tumblr.
 
 
-## Hints and Hurdles
-+ MySQL workbench works on all computers (PC, Mac, Chromebook)
-+ Make sure they understand how SQL works and test the DB before class
