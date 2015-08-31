@@ -36,15 +36,6 @@ Here, we have a route processed by a GET request, but there is a part of that ro
 
 In this example, we expect the `:name` portion of the route to change. You could enter `localhost:9292/hello/victoria` or `localhost:9292/hello/danny`. This route will change the actual text of the page so we should see `Hey there victoria` and `Hey there Danny` respectively.
 
-+ So how can we have a route that changes based on a user id so that each user can have their own profile page:
-```ruby
-  get '/users/:id' do
-    @user = User.find(params[:id])
-    erb :"users/show"
-  end
-```
-
-
 **Challenge**
 
 + Boot up your localhost and run the practice code. Use your browser to try out the get request. Say hello to yourself. Say hello to someone else. Get crazy.

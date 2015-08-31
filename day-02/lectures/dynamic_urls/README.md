@@ -30,13 +30,7 @@ Web applications sometimes use the URL to pass information from the frontend to 
 
 + In this example, we expect the `:name` portion of the route to change. You could enter `localhost:9292/hello/victoria` or `localhost:9292/hello/danny`. This route will change the actual text of the page so we should see `Hey there victoria` and `Hey there Danny` respectively.
 
-+ So how can we have a route that changes based on a user id so that each user can have their own profile page:
-```ruby
-  get '/users/:id' do
-    @user = User.find(params[:id])
-    erb :"users/show"
-  end
-```
+
 
 
 ### Conclusion / So What?

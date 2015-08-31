@@ -23,8 +23,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:45</td>
         <td>HTML Forms in Fwitter/Dynamic URLs</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms"> Completed Day 2 Fwitter</a>
-            <br>
             <a href="lectures/fwitter_forms/LECTURE.md">Lecture Guides: Forms</a>
             <br>
             <a href="lectures/fwitter_forms">Lecture Notes</a>
@@ -32,6 +30,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="lectures/dynamic_urls/LECTURE.md"> Lecture Guides: Dynamic URLs</a>
             <br>
             <a href="lectures/dynamic_urls"> Lecture Notes </a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms"> Completed Day 2 Fwitter</a>
             <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
 
     <tr>

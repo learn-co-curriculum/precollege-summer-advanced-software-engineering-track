@@ -23,14 +23,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 11:30</td>
         <td>Intro to ActiveRecord</td>
         <td>
-            Have students follow along the setup using the "Fwitter Code Snippets" on Learn
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases"> Completed Day 3 Fwitter</a>
-            <br>
+            Have students follow along the setup using the "Fwitter Code Snippets" on Learn<br>
             <a href="lectures/activerecord/LECTURE.md">Lecture Guides: ActiveRecord</a>
             <br>
             <a href="lectures/activerecord">Lecture Notes</a>
             <br>
             <a href="lectures/activerecord/code_snippets.md">Code Snippets</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases"> Completed Day 3 Fwitter</a>
             
         </td>
     </tr>

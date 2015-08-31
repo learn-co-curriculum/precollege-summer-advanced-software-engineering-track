@@ -23,13 +23,13 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>9:15 - 10:30</td>
         <td>Intro to Sessions and Cookies</td>
         <td>
-             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day05-sessions-authorization">Completed Day 5 Fwitter</a>
-             <br>
              <a href="lectures/sessions_authorization/LECTURE.md">Lecture Guides: Sessions Authorization</a>
             <br>
             <a href="lectures/sessions_authorization/">Lecture Notes</a>
             <br>
             <a href="lectures/sessions_authorization/code_snippets.md">Code Snippets</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day05-sessions-authorization">Completed Day 5 Fwitter</a>
         </td>
     </tr>
     <tr>

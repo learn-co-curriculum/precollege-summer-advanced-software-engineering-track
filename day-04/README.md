@@ -31,7 +31,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="lectures/intro-to-activerecord-relationships">Lecture Notes</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day04-activerecord-relationships">Completed Week 4 Fwitter</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day04-activerecord-relationships">Completed Day 4 Fwitter</a>
         </td>
     </tr>
     <tr>
