@@ -9,11 +9,11 @@
 ### Motivation / Why Should You Care?
 + We’ve all been in the situation where we want to make something, but are totally overwhelmed by the blank page. The blinking cursor of nothingness. It’s totally daunting. Since we’re going to start working on our final projects, we’re going to first tackle the brainstorming process so that we have a few potential projects that we can work on. The point of this course is to learn to build web applications, combining front-end programming with back-end programming, but you can't build an application about nothing. You need a good idea, first!
 
-+ You've spent a good chunk of your summer learning MVC — the architecture that supports most applications that you use, love, or have ever intereacted with.  You hold enormous power in your hands!  Combing the front-end ad backend, with the ability to store data or retrieve it through an API.  sIn order for you to use this power effectively, let's dive into a brainstorming process.  Some of you already have final project ideas — that's cool.  Take this opportunity to refine them.
++ You've spent a good chunk of your summer learning MVC — the architecture that supports most applications that you use, love, or have ever intereacted with.  You hold enormous power in your hands!  Combing the front-end and backend, with the ability to store data or retrieve it through an API. In order for you to use this power effectively, let's dive into a brainstorming process.  Some of you already have final project ideas — that's cool.  Take this opportunity to refine them.
 
 ###Lesson Plan
 
-1. Show examples of ineresting web applications that utilize basic data persistence.
+1. Show examples of interesting web applications that utilize basic data persistence.
   + http://www.data.gov/
   + NYC Open data: https://nycopendata.socrata.com/
 
@@ -35,7 +35,7 @@ Student Examples:
       + What are some problems you want to address in the world?
     + Following each segment, have the students take their post-its up to the board.  Have them take 10 minutes to  organize into teams around a problem they find interesting.
   + Solution brainstorm
-    + Once students are organized into groups, have them clarify who their end-user will be.  Who are they building      this app for? How do they currently solve this problem?  What are the shortcomings of current solutions? Have        each group share their use case.
+    + Once students are organized into groups, have them clarify who their end-user will be.  Who are they building this app for? How do they currently solve this problem?  What are the shortcomings of current solutions? Have each group share their use case.
     + Have students take 3 minutes to write down as many solutions to their groups problems as possible individually.
     + If teams of 4 have students partner up and take an additional 3 minutes to share and refine ideas.
     + Have teams come together and share ideas and pick their favorite solution. 
