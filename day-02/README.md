@@ -56,9 +56,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>12:30 - 1:30</td>
-        <td>Labs</td>
+        <td>Intro to SQL and Databases</td>
         <td>
-            Work on Labs from Above
+            <a href="https://github.com/learn-co-curriculum/hs-ruby2-teachers-guide-mysql-setup"> Teacher Guide Setup MySQL</a></br>
+            <a href="lectures/dynamic_urls/LECTURE.md"> Lecture Guide: SQL</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-sql-queries-challenge"> Lab: SQL Challenge</a></br>
         </td>
     </tr>
     <tr>
@@ -72,7 +74,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:00 - 2:50</td>
         <td>Labs</td>
         <td>
-            Work on labs above
+            Work on SQL/Labs from before
         </td>
     </tr>
     <tr>

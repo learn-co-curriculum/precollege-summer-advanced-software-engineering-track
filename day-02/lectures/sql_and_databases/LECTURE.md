@@ -90,5 +90,6 @@ The way that we use the internet would be vastly different if we couldn’t save
 
 ## Hints and Hurdles
 + MySQL workbench works on all computers (PC, Mac, Chromebook)
++ If students have trouble connecting, make sure they've pressed CMD+enter instead of just enter. 
 + Make sure they understand how SQL works and test the DB before class
-+ There is a very good chance someone will delete the students table, either by accident or otherwise. This is a great teaching moment - ask the students why it's important not to destory data? 
++ There is a very good chance someone will delete the students table, either by accident or otherwise. This is a great teaching moment - ask the students why it's important not to destroy data? 

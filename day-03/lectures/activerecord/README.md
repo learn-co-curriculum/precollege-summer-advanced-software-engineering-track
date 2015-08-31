@@ -1,4 +1,4 @@
-#DAY-03 Databases 
+#DAY-03 ActiveRecord 
 
 _A full lecture is available [here](LECTURE.md)_
 
@@ -9,40 +9,11 @@ _A full lecture is available [here](LECTURE.md)_
 The way that we use the internet would be vastly different if we couldn’t save our data. You wouldn’t be able to have sites like facebook, tumblr, yelp or pretty much anything. Databases make all of these applications possible. They are the backbone of the web. We’re going to learn how to persist (save) data so that it is accessible from different places at different times.
 
 ### Lesson Plan
-**BEFORE CLASS: DOWNLOAD CHROME MYSQL ADMIN** You can find the guide for downloading and using MYSQL [here](https://github.com/learn-co-curriculum/hs-ruby2-teachers-guide-mysql-setup)
-
 ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
 
 ***Sample completed project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases)***
 
 
-+ **WHAT IS A DATABASE:**A relational database is essentially a series of tables that can be joined to one another. Each table store the information for one model (or class).
-
-+ **SQL:** is the language that controls databases (how you create and name tables, add information, add, delete, modify, and read information)
-
-+ **Class should go to Chrome Webstore and download [MySQL Console](https://chrome.google.com/webstore/detail/mysql-console/cakepohgdbjbenkcpkkacmohgfjhnjoh?utm_source=chrome-ntp-icon)**
-    * Open up MYSQL Console and log in by typing `login [host] [port] [username] [password]` where
-      * host is 45.55.161.130
-      * port is 3306
-      * username is flatiron
-      * contact Danny or Ian for PW
-    * Use CMD + ENTER to run lines of code in the console
-    * Type `USE software_engineering` to use the shared database.
-    * We now have access to the software enginnering database, where we'll be able to add, modify, delete, and read from tables. We can also create our own tables.
-    
-  * Creating a table:
-  ```sql
-    CREATE TABLE tweets (id integer auto_increment primary key, user VARCHAR(50), status VARCHAR(140)); 
-  ```
-  * Adding a row (adding data):
-  ```sql
-    INSERT INTO tweets (user, status) VALUES (“Danny”, “Hello world!”);
-  ```
-  * Read information:
-  ```sql
-    SELECT * FROM tweets 
-  ```
-    
 + **ACTIVE RECORD:** is gem that sets up a SQL databse and lets us write ruby code to read and write to the database
 
 ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
