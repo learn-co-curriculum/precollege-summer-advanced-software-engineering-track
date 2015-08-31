@@ -74,7 +74,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:00 - 2:50</td>
         <td>Labs</td>
         <td>
-            Work on SQL/Labs from before
+            Work on SQL Challenge/Labs from before
         </td>
     </tr>
     <tr>
