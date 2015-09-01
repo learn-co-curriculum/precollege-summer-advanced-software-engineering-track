@@ -41,7 +41,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="lectures/group_project"> Lecture Guide: Social Media Recreation Project</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-social-media-recreation">Lab: Social Media Recreation</a>
+            <a href="https://github.com/learn-co-curriculum/hs-social-media-recreation">Group Project: Social Media Recreation</a>
         </td>
     </tr>
 
