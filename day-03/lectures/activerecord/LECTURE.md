@@ -24,11 +24,30 @@ We've learned about how essential databases are for our web applications. How do
 
 ***Sample completed project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases)***
 
+**Abstraction** 
+NOTE: ActiveRecord is very abstract. We've found that framing this lecture around abstraction helped students grasp that we're just removing details from our program, not fundamentally changing how it works. 
+
+Prompt the students with a question: What is abstraction? What does abstraction make them think of? (Art, Music, etc.)
+
+Put an image of Picasso's Bull on the board ![](http://www.hover.com/wp-content/uploads/2014/08/Picasso.jpg)
+
+Here, Picasso started with a very detailed image of a bull. He then wanted to see - how much detail could be removed and still have the essence of the bull remain? Here, he's managed complexity - he's able to convey a bull with a very simple outline. 
+
+"To arrive at abstraction, it is always necessary to begin with concrete reality... You must always start with something. Afterward you can remove all traces of reality. There's no danger then, anyway, because the idea of the object will have left an indelible mark. " - Picasso
+
+Have the students discuss in groups: how does abstraction relate to technology? 
+
+A few potential examples:
+  + The GUI, or graphical user interface, is an abstraction for terminal commands
+  + The Ruby Programming language is written in C, which is compiled into binary.
+  + attr_accessor is an abstraction for getter and setter methods. 
+
+We're about to make our programs more abstract, but remember that there's no danger. 
 
 **ACTIVE RECORD**
 ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
 
-+ SQL can be hard to write, especially when you're trying to pulll information from multiple tables.
++ SQL can be hard to write, especially when you're trying to pull information from multiple tables.
 + ActiveRecord is gem that sets up a SQL database and lets us write ruby code to read and write to the database
 + Gemfile: add 'activerecord' and 'sinatra-activerecord' and 'sqlite3' and 'rake' gems to your gemfile
 + See Code Snippet 1
@@ -83,6 +102,7 @@ We've learned about how essential databases are for our web applications. How do
 
 
 ## Conclusion / So What?
+
 Databases are extremely powerful tools that allow for applications to store information. Without them, you could never email your friends from Gmail, post cat memes to Facebook, check out your friends on Instagram, and watch funny videos on Tumblr.
 
 
