@@ -32,10 +32,22 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="lectures/dynamic_urls"> Lecture Notes </a>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms"> Completed Day 2 Fwitter</a>
             <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
+        </td>
+    </tr>
 
     <tr>
-        <td>10:45 - 11:30</td>
-        <td>Labs</td>
+        <td>10:45 - 11:00</td>
+        <td>Introduce Group Project</td>
+        <td>
+            <a href="lectures/group_project"> Lecture Guide: Social Media Recreation Project</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-social-media-recreation">Lab: Social Media Recreation</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td>11:00 - 11:30</td>
+        <td>Group Project and Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/rps-game-app"> Lab: Rock Paper Scissors Sinatra</a>
             <br>
@@ -73,7 +85,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>2:00 - 2:50</td>
         <td>Labs</td>
         <td>
-            Work on SQL Challenge/Labs from before
+            Work on SQL Challenge/Group Project/Labs from before
         </td>
     </tr>
     <tr>
