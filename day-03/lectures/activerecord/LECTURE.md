@@ -25,7 +25,7 @@ We've learned about how essential databases are for our web applications. How do
 ***Sample completed project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases)***
 
 **Abstraction** 
-NOTE: ActiveRecord is very abstract. We've found that framing this lecture around abstraction helped students grasp that we're just removing details from our program, not fundamentally changing how it works. 
+*NOTE: ActiveRecord is very abstract. We've found that framing this lecture around abstraction helped students grasp that we're just removing details from our program, not fundamentally changing how it works.*
 
 Prompt the students with a question: What is abstraction? What does abstraction make them think of? (Art, Music, etc.)
 
