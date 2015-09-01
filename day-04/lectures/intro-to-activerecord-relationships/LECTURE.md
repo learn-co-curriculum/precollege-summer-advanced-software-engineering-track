@@ -67,6 +67,12 @@ Yesterday we did a ton of work with ActiveRecord to get our databases hooked up 
   * ActiveRecord makes it easy for us to build relationships between models with two methods called `belongs_to` and `has_many`
     * Ask the class - Do you think a user “has_many” tweets or “belongs_to” a tweet?
     * Start mapping out this relationship on the board.
+  * What are some other examples of `belongs_to` and `has_many` relationships? 
+    * A YouTube user has many videos, videos belong to a user
+    * An Instagram user has many photos, photo belongs to a user
+    * An Instagram Photo has many likes, likes belong to a photo
+    * A Kickstarter user has many projects, projects belong to a user
+    * There are tons of these - prompt the students to come up with some of their own
   * So ultimately ActiveRecord will allow us to do something like this:
     * `user1.tweets` to get an array with all of a user's tweets
     * or `tweet1.user` to see who created tweet1

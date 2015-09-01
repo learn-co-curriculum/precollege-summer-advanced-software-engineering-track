@@ -75,8 +75,10 @@ We're about to make our programs more abstract, but remember that there's no dan
 + Creates a `schema` file in the db directory
 + Make sure students git add, commit, push at this point
 + Modify the models to inherit from `ActiveRecord::Base` and delete all the reader/writer methods
++ Remember what we said earlier about abstraction?
 + See code snippet 6
 + having the tweets class inherit from ActiveRecord gives us all the reader and writer methods we need, and automatically saves them to the database.
++ We're not defining them manually anymore, but they're coming from ActiveRecord. 
 + Naming conventions (SUPER important)
 + `Tweet` class (singular and capitalized)
 + `Tweets` table (plural)
@@ -104,5 +106,6 @@ We're about to make our programs more abstract, but remember that there's no dan
 ## Conclusion / So What?
 
 Databases are extremely powerful tools that allow for applications to store information. Without them, you could never email your friends from Gmail, post cat memes to Facebook, check out your friends on Instagram, and watch funny videos on Tumblr.
+
 
 
