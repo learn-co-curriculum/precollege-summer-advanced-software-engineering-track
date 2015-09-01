@@ -159,7 +159,7 @@ steph = {
 
 ### Conclusion/So What?
 
-+ Ruby is the founation of everything we've done up until this point. In this course, you're going to learn how to really leverage Object Oreintation to make fully featured web applications. 
++ Ruby is the foundwation of everything we've done up until this point. In this course, you're going to learn how to really leverage Object Orientation to make fully featured web applications. 
 
 ### Hints and Hurdles
 + Feel free to go through this quickly if the students are picking it up, especially the data type/variable assignment sections. 

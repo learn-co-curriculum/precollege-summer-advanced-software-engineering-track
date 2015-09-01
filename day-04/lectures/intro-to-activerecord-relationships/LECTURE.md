@@ -73,6 +73,10 @@ Yesterday we did a ton of work with ActiveRecord to get our databases hooked up 
     * An Instagram Photo has many likes, likes belong to a photo
     * A Kickstarter user has many projects, projects belong to a user
     * There are tons of these - prompt the students to come up with some of their own
+  * Once students have come up with an app, have them physically draw out what the schema would look like. 
+    * Use whiteboards or an online tool like Gliffy. 
+    * Use arrows or lines to represent the has_many/belongs_to relationship
+
   * So ultimately ActiveRecord will allow us to do something like this:
     * `user1.tweets` to get an array with all of a user's tweets
     * or `tweet1.user` to see who created tweet1
