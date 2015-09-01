@@ -24,7 +24,15 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:30</td>
+        <td>9:15 - 9:45</td>
+        <td>Amazon Tables Challenge</td>
+        <td>
+            Tell the students that someone's dropped Amazon's database, and they've been hired to recreate it! Spend 30 minutes creating as many tables as possible. <br>
+            <a href="https://github.com/learn-co-curriculum/hs-amazon-tables-challenge">Lab: Amazon Tables Challenge</a><br>
+        </td>
+    </tr>
+    <tr>
+        <td>9:45 - 10:30</td>
         <td>Intro to ActiveRecord relationships</td>
         <td>
             <a href="lectures/intro-to-activerecord-relationships/LECTURE.md">Lecture Guides: Intro to ActiveRecord Relationships</a>
