@@ -36,7 +36,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:30</td>
         <td>Fwitter + Swag Shop + Labs</td>
         <td>
-            Students should work on Fwitter with Sessions and Authorization then Swag Shop and Fwitter Challenges then labs.
+            Students should work on Fwitter with Sessions and Authorization, then Group Project, then Fwitter Challenges then Labs.
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-social-media-recreation-part-4">Group Project: Implementing Sessions</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store-day05/tree/master">Swag Store</a>
             <br>

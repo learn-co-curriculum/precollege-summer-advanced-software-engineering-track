@@ -43,12 +43,11 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>12:30 - 1:30 </td>
-        <td>Fwitter + Swag Shop + Labs</td>
+        <td>Fwitter + Group Project + Labs</td>
         <td>
-            Students should finish setting up Fwitter with a Database, then work on Swag Shop, then Labs:<br>
+            Students should work on their group project, then Labs:<br>
+            <a href="https://github.com/learn-co-curriculum/hs-social-media-recreation-part-2">Group Project: Adding a Database to Our Social Media Recreation</a>
             <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store-day03">Lab: Swag Shop</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/hs-sql-queries-challenge"> Lab: SQL Challenge</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-module-3-challenges"> Lab: Fwitter Challenges</a>
             <br>
@@ -68,7 +67,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>2:00 - 2:50</td>
-        <td> Fwitter + Swag Shop + Labs</td>
+        <td> Group Project + Labs</td>
         <td>
             Work on Labs from Before.
 

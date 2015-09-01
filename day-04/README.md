@@ -44,8 +44,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>10:30 - 11:30</td>
-        <td>Setting up Users and Tweets in Fwitter + Labs</td>
+        <td>Setting up Users and Tweets in Group Project + Fwitter + Labs</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/hs-social-media-recreation-part-3"> Group Project: Adding Users and Associations to our Social Media Recreation</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-snapchat"> Snapchat Lab</a></br>
             <a href="https://github.com/learn-co-curriculum/OO-my-pets">Lab: OO My Pets</a></br>
             <a href="https://github.com/learn-co-curriculum/jukebox-cli">Lab: OO CLI Jukebox</a></br>
