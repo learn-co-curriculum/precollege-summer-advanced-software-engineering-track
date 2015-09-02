@@ -147,21 +147,112 @@ steph = {
 
   steph = User.new
 ```
-+ We can store our properties by setting up attr_accessors
++ We can store our values in instance variables and access them using `attr_accessor`. This gives us "getter" and "setter" methods for each value
 
 ```ruby
   class User
   	attr_accessor :name, :email, :password, :friends
+
+  	def initialize(name, email, password)
+  		@name = name
+  		@email = email
+  		@password = password
+  		@friends = []
+  	end
   end
 
-  steph = User.new
+  steph = User.new("Stephanie", "coleman@flatironschool.com", "flatiron")
+
 ```
++ Each new instance of a user will get a different name, email, password, and array of friends. What if we wanted a variable to keep track of the total number of users that have been created? 
++ We can use a class constant - a variable which will belong to the entire class of User. In Ruby, we specify this by using ALL_CAPS
+```ruby
+  class User
+
+  	ALL_USERS = 0
+
+  	attr_accessor :name, :email, :password, :friends
+
+  	def initialize(name, email, password)
+  		@name = name
+  		@email = email
+  		@password = password
+  		@friends = []
+  		ALL_USERS += 1
+  	end
+  end
+
+  steph = User.new("Stephanie", "coleman@flatironschool.com", "flatiron")
+
+```
++ Notice that every time we a new user is initialized, we increase our ALL_USERS counter by one. 
++ But how do we access the `ALL_USERS` variable from outside of our class? How can we ask the User class how many users have been created? 
++ For this, we need a class method. Class methods are called on the class instead of instances of the class. For example, we'd like to say `User.all` and have that return our `ALL_USERS` variable. We define class variables using Ruby's keyword `self`. 
++ In a nutshell, `self` is a placeholder meaning "the current scope". Inside of the class, it refers to the class itself. Inside of other methods, it refers to the instance of the class. 
+
+```ruby
+  class User
+
+  	ALL_USERS = 0
+
+  	attr_accessor :name, :email, :password, :friends
+
+  	def initialize(name, email, password)
+  		@name = name
+  		@email = email
+  		@password = password
+  		@friends = []
+  		ALL_USERS += 1
+  	end
+
+  	def self.all
+  		ALL_USERS
+  	end
+  end
+
+  steph = User.new("Stephanie", "coleman@flatironschool.com", "flatiron")
+  current_count = User.all
+  #=> 1
+
+```
+
++ It would be nice if, instead of storing just the count of users, we were keeping track of the instances of users themselves. What type of Ruby object is good for holding multiple items? An array!
+
+```ruby
+  class User
+
+  	ALL_USERS = []
+
+  	attr_accessor :name, :email, :password, :friends
+
+  	def initialize(name, email, password)
+  		@name = name
+  		@email = email
+  		@password = password
+  		@friends = []
+  		ALL_USERS << self
+  	end
+
+  	def self.all
+  		ALL_USERS
+  	end
+  end
+
+  steph = User.new("Stephanie", "coleman@flatironschool.com", "flatiron")
+  all_users = User.all
+  #=> [#<User:0x007f8c0b2c4388 @name="Stephanie", @email="coleman@flatironschool.com", @password="flatiron", @friends=[]>] 
+
+```
+
++ Remember, inside of our initialize method, self refers to the user that was just created. It's our placeholder for the current object. 
+
 
 ### Conclusion/So What?
 
-+ Ruby is the foundwation of everything we've done up until this point. In this course, you're going to learn how to really leverage Object Orientation to make fully featured web applications. 
++ Ruby is the foundation of everything we've done up until this point. In this course, you're going to learn how to really leverage Object Orientation to make fully featured web applications. 
 
 ### Hints and Hurdles
-+ Feel free to go through this quickly if the students are picking it up, especially the data type/variable assignment sections. 
++ Feel free to go through the beginning very quickly if the students are picking it up
++ The concept of `self` can be confusing - let kids know that it's okay if it takes awhile for them to pick it up. You'll have more time to practice during the Fwitter lecture in the afternoon. 
 
 

@@ -67,7 +67,17 @@ stuff_in_my_house = {"food"=>["lettuce", "cereal", "popcorn"], "furniture" =>["s
 #### Object Orientation
 + Imagine if Facebook used hashes to represent all of their users. 
 + It would be really tricky to keep track of things like friends and interests in common. Instead, we create a User template and then create instances of the user. 
-+ We can store our properties by setting up attr_accessors
++ We can store our attributes in instance variables and access them by setting up attr_accessors
++ attr_accessors give us "getter" and "setter" methods for each instance variable. 
+
+#### Self
+
++ Each new instance of a user will get a different name, email, password, and array of friends. What if we wanted a variable to keep track of all of the users that have been created? 
++ We can use a class constant - a variable which will belong to the entire class of User. In Ruby, we specify this by using ALL_CAPS
++ Notice that every time we a new user is initialized, we want to add that user into our ALL_USERS array. 
++ But how do we access the `ALL_USERS` variable from outside of our class? How can we ask the User class how many users have been created? 
++ For this, we need a class method. Class methods are called on the class instead of instances of the class. For example, we'd like to say `User.all` and have that return our `ALL_USERS` constant. We define class variables using Ruby's keyword `self`. 
++ In a nutshell, `self` is a placeholder meaning "the current scope". Inside of the class, it refers to the class itself. Inside of other methods, it refers to the instance of the class. 
 
 
 ### Conclusion/So What?
@@ -75,6 +85,7 @@ stuff_in_my_house = {"food"=>["lettuce", "cereal", "popcorn"], "furniture" =>["s
 + Ruby is the founation of everything we've done up until this point. In this course, you're going to learn how to really leverage Object Oreintation to make fully featured web applications. 
 
 ### Hints and Hurdles
-+ Feel free to go through this quickly if the students are picking it up, especially the data type/variable assignment sections. 
++ Feel free to go through the beginning very quickly if the students are picking it up
++ The concept of `self` can be confusing - let kids know that it's okay if it takes awhile for them to pick it up. You'll have more time to practice during the Fwitter lecture in the afternoon. 
 
 
