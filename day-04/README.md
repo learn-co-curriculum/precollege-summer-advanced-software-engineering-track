@@ -32,18 +32,22 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:45 - 10:30</td>
-        <td>Intro to ActiveRecord relationships</td>
+        <td>9:45 - 10:45</td>
+        <td>Intro to ActiveRecord relationships/Dynamic URLs</td>
         <td>
             <a href="lectures/intro-to-activerecord-relationships/LECTURE.md">Lecture Guides: Intro to ActiveRecord Relationships</a>
             <br>
             <a href="lectures/intro-to-activerecord-relationships">Lecture Notes</a>
             <br>
+            <a href="lectures/dynamic_urls/LECTURE.md">Lecture Guide: Dynamic URLs</a>
+            <br>
+            <a href="lectures/dynamic_urls">Lecture Notes</a>
+            <br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day04-activerecord-relationships">Completed Day 4 Fwitter</a>
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:30</td>
+        <td>10:45 - 11:30</td>
         <td>Setting up Users and Tweets in Group Project + Fwitter + Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-social-media-recreation-part-3"> Group Project: Adding Users and Associations to our Social Media Recreation</a></br>

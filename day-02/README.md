@@ -20,23 +20,20 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:45</td>
-        <td>HTML Forms in Fwitter/Dynamic URLs</td>
+        <td>9:15 - 10:15</td>
+        <td>HTML Forms in Fwitter</td>
         <td>
             <a href="lectures/fwitter_forms/LECTURE.md">Lecture Guides: Forms</a>
             <br>
             <a href="lectures/fwitter_forms">Lecture Notes</a>
             <br>
-            <a href="lectures/dynamic_urls/LECTURE.md"> Lecture Guides: Dynamic URLs</a>
-            <br>
-            <a href="lectures/dynamic_urls"> Lecture Notes </a>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms"> Completed Day 2 Fwitter</a>
             <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
         </td>
     </tr>
 
     <tr>
-        <td>10:45 - 11:00</td>
+        <td>10:15 - 10:30</td>
         <td>Introduce Group Project</td>
         <td>
             <a href="lectures/group_project"> Lecture Guide: Social Media Recreation Project</a>
@@ -46,7 +43,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 
     <tr>
-        <td>11:00 - 11:30</td>
+        <td>10:30 - 11:30</td>
         <td>Group Project and Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/rps-game-app"> Lab: Rock Paper Scissors Sinatra</a>
