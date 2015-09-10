@@ -16,7 +16,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://docs.google.com/a/flatironschool.com/presentation/d/12uP912YSNhwTfVoJtSz8R9yls5mb62yNDaZKF7tDIBs/edit?usp=sharing"> Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-oo-email-parser"> ToDo: OO Email Parser</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-day-5-todo"> Day 5 ToDo</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-tumblr-associations"> Tumblr Associations</a>
         </td>
     </tr>
     <tr>
@@ -45,8 +46,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-module-5-challenges"> Lab: Fwitter Challenges</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/anagram-detector"> Lab: Anagram Detecor </a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/sinatra-adventure">Lab: Sinatra Adventure</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/ruby-allergies">Stretch Lab: Ruby Allergies</a>
         </td>
@@ -86,7 +85,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             Tell the kids they're awesome!
             <br>
-            <a href="https://github.com/learn-co-curriculum/anagram-detector">Code Challenge: Anagram Detector</a>
+            <a href="https://github.com/learn-co-curriculum/sinatra-adventure">Code Challenge: Sinatra Adventure</a>
         </td>
     </tr>
 </table>

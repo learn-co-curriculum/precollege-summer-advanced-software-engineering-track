@@ -16,7 +16,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://docs.google.com/presentation/d/1Idsv-gyHL3ZUVzbLde_Y9h-QyOM8Ve3x0Iy4G_M9P_U/edit?usp=sharing"> Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/cartoon-collections">Cartoon Collection</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-day-2-todo">Day 2 ToDo</a>
         </td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             Tell kids they are awesome.</br>
 
             <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a></br>
-            <a href="https://github.com/learn-co-curriculum/pig-latin">Code Challenge: Pig Latin</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-healthcare-signup">Code Challenge: Healthcare.gov SignUp</a></br>
         </td>
     </tr>
 </table>

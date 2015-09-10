@@ -16,7 +16,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://docs.google.com/presentation/d/1UjrHc_Ki_dvtPqWsWxncBCmWmXYqwv6zg1Zvdlnzfnc/edit?usp=sharing"> Deck </a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/oo-whale-of-a-time">OO Whale</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-day-3-todo">Day 3 ToDo</a><br>
+            <a href="https://github.com/learn-co-curriculum/sql-insert-select-lab">Select And Insert</a>
         </td>
     </tr>
     <tr>
@@ -79,7 +80,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-post-class-survey"> Micro Feedback </a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/find-hashtags">Code Challenge: Find Hashtags</a>
+            <a href="https://github.com/learn-co-curriculum/hs-activerecord-costume-store">Code Challenge: ActiveRecord Costume Store</a>
             <br>
             Tell the kids they're awesome. 
         </td>
