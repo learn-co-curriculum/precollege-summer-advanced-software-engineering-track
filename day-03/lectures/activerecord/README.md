@@ -9,6 +9,13 @@ _A full lecture is available [here](LECTURE.md)_
 The way that we use the internet would be vastly different if we couldn’t save our data. You wouldn’t be able to have sites like facebook, tumblr, yelp or pretty much anything. Databases make all of these applications possible. They are the backbone of the web. We’re going to learn how to persist (save) data so that it is accessible from different places at different times.
 
 ### Lesson Plan
+
++ ** Abstraction **
+
+Prompt the students: What is Abstraction? How does abstraction relate to technology? 
+
+***Note: this will be helpful as you remove detail from your code. ***
+
 ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
 
 ***Sample completed project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases)***
