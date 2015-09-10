@@ -34,7 +34,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
     <tr>
         <td>10:30 - 11:30</td>
-        <td>Fwitter + Swag Shop + Labs</td>
+        <td>Fwitter + Group Project + Labs</td>
         <td>
             Students should work on Fwitter with Sessions and Authorization, then Group Project, then Fwitter Challenges then Labs.
             <br>

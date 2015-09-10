@@ -30,18 +30,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>10:00 - 10:30</td>
-        <td>Seed File Lecture</td>
+        <td>10:00 - 11:30</td>
+        <td>Group Project</td>
         <td>
-            <a href="lectures/seeds/LECTURE.md">Lecture: Seed File</a>
-            <br>
-            <a href="lectures/seeds">Lecture Notes</a>
-        </td>
-    </tr>
-    <tr>
-        <td>10:30 - 11:30</td>
-        <td>Group Project - Flinstagram!</td>
-        <td>
+
             <a href="lectures/group-project">Lecture: Group Project</a>
             <a href="https://github.com/learn-co-curriculum/hs-adv-se-flinstagram/">Group Project: Flinstagram</a>
         </td>
@@ -54,24 +46,17 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>12:00 - 2:00</td>
+        <td>12:30 - 1:45</td>
         <td>Finish Group Project From Earlier</td>
         <td>
         
         </td>
     </tr>
     <tr>
-        <td>1:30 - 2:00</td>
-        <td>Improv</td>
+        <td>1:45 - 2:50</td>
+        <td>Presentations</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/tf-improv-games"> Improv Games</a>
-        </td>
-    </tr>
-    <tr>
-        <td>2:00 - 2:50</td>
-        <td>Either keep working on the Swag Shop or have students present their projects</td>
-        <td>
-
+            Have students present their Social Media projects to the class. <br>
         </td>
     </tr>
     <tr>
