@@ -29,8 +29,10 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="lectures/fwitter_forms">Lecture Notes</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms"> Completed Day 2 Fwitter</a>
-            <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day02-forms"> Completed Day 2 Fwitter</a><br>
+            <a href="lectures/fwitter_forms/code_snippets.md">Code Snippets</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-1-mvc"> Student Facing Fwitter</a>
+            <br>
         </td>
     </tr>
 

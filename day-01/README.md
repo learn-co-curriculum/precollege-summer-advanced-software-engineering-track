@@ -57,7 +57,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="lectures/MVC_Review">Lecture Notes</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day01-mvc"> Completed Day 1 Fwitter</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day01-mvc"> Completed Teaching Facing Fwitter</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-ruby-project-setup"> Student Facing Fwitter</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-flatiron-swag-store-day01">Lab: Student Practice with Swag Shop</a>
             <br>

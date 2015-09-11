@@ -31,7 +31,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <br>
             <a href="lectures/activerecord/code_snippets.md">Code Snippets</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases"> Completed Day 3 Fwitter</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-fwitter-project/tree/day03-databases"> Completed Day 3 Fwitter</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-fwitter-2-forms"> Student Facing Fwitter</a>
             
         </td>
     </tr>
