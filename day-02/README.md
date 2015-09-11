@@ -46,13 +46,15 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:30 - 11:30</td>
         <td>Group Project and Labs</td>
         <td>
+            Students will setup and build out their Social Media project. By lunch they should have a form that creates a new instance of their content. <br>
+            Other Challenges for Students Who Finish Early:<br>
             <a href="https://github.com/learn-co-curriculum/hs-rps-game-app"> Lab: Rock Paper Scissors Sinatra</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/hs-fwitter-module-2-challenges">Lab: Fwitter Challenges</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/rack-todo">Lab: Explore Rack</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/maze-solver">Stretch Lab: Maze Solver</a>
+            <a href="https://github.com/learn-co-curriculum/maze-solver">Ruby Stretch Lab: Maze Solver</a>
         </td>
     </tr>
     <tr>
