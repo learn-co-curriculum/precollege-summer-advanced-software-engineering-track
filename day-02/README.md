@@ -16,7 +16,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>
             <a href="https://docs.google.com/presentation/d/1Idsv-gyHL3ZUVzbLde_Y9h-QyOM8Ve3x0Iy4G_M9P_U/edit?usp=sharing"> Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-day-2-todo">Day 2 ToDo</a>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-software-engineering-day-2-todo">Day 2 ToDo</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-current-time/">Current Time</a><br>
+
         </td>
     </tr>
     <tr>
