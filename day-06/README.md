@@ -2,7 +2,10 @@
 
 ## Schedule
 
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
++Today is more sparse by design to give your students a chance to catch up if needed. They may need to spend most of the day working on their social media projects. If some students finish early, give them a stretch challenge for their project, such as implementing BCrypt of OAuth. 
++ If the whole group finishes early, feel free to move presentations up early and work on either
+    + Doing a bigger build out of the Kiva project
+    + Move tomorrow's API lecture to this afternoon, then start with ideation tomorrow morning
 
 <table>
     <tr>
@@ -34,9 +37,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>10:00 - 11:30</td>
         <td>Group Project</td>
         <td>
-
-            <a href="lectures/group-project">Lecture: Group Project</a>
-            <a href="https://github.com/learn-co-curriculum/hs-adv-se-flinstagram/">Group Project: Flinstagram</a>
+            Students should use this time to finish their group Social Media projects from last week in preparation for presentations in the afternoon. 
         </td>
     </tr>
     <tr>
