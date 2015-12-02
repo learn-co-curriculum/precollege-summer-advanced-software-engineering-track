@@ -32,3 +32,5 @@ Here you'll find:
 
 Bonus Modules:
 
+
+<a href='https://learn.co/lessons/precollege-summer-advanced-software-engineering-track' data-visibility='hidden'>View this lesson on Learn.co</a>
