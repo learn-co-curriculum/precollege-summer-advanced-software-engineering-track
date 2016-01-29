@@ -33,4 +33,4 @@ Here you'll find:
 Bonus Modules:
 
 
-<a href='https://learn.co/lessons/precollege-summer-advanced-software-engineering-track' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/precollege-summer-advanced-software-engineering-track' title='HS ADVANCED SOFTWARE ENGINEERING OUTLINE'>HS ADVANCED SOFTWARE ENGINEERING OUTLINE</a> on Learn.co and start learning to code for free.</p>
